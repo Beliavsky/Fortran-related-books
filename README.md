@@ -1,4 +1,4 @@
-# Fortran-related-books
+# Fortran-related books
 Books with Fortran code, other than Fortran textbooks. This is a copy of the Related Books section of the [Fortran Wiki](http://fortranwiki.org/fortran/show/Books). If you have a book suggestion or if the code of a book is not linked here, please create an issue.
 
 Akaike, Hirotsugu (1975). [TIMSAC-74, a time series analysis and control program package](https://www.amazon.com/TIMSAC-74-analysis-control-Computer-monographs/dp/B0007B3OIW/fortran-wiki-20) Institute of Statistical Mathematics. R package [timsac: Time Series Analysis and Control](https://cran.r-project.org/web/packages/timsac/index.html) has Fortran code.
@@ -36,6 +36,8 @@ Bierman, Gerald J. (1977). [Factorization Methods for Discrete Sequential Estima
 Blazek, Jiri (2015). [Computational Fluid Dynamics: Principles and Applications, 3rd ed.](https://booksite.elsevier.com/9780080999951/) Butterworth-Heinemann
 
 Bloomfield, Peter (1976). [Fourier Analysis of Time Series, 1st ed.](https://books.google.com/books?id=UtpQAAAAMAAJ&source=gbs_book_other_versions) First edition has Fortran code, the 2nd edition, published in 2000, has S-PLUS code.
+
+Bratley, Paul, Bennet L. Fox, and Linus E. Schrage (1987). [A Guide to Simulation, 2nd. ed.](https://www.springer.com/us/book/9780387964676) Springer.
 
 Boor, Carl de (1978). [A Practical Guide to Splines](https://www.springer.com/gp/book/9780387953663) Springer. PPPACK Fortran 90 code [here](https://people.sc.fsu.edu/~jburkardt/f_src/pppack/pppack.html)
 
