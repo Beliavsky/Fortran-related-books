@@ -255,6 +255,9 @@ Newton, H. Joseph (1988). [Timeslab: A Time Series Analysis Laboratory](https://
 
 Nguyen, Duc Thai (2002). [Parallel-Vector Equation Solvers for Finite Element Engineering Applications](https://www.springer.com/us/book/9780306466403) Springer
 
+Nijenhuis, Albert, and Herbert S. Wilf. [Combinatorial Algorithms
+For Computers and Calculators](https://www3.cs.stonybrook.edu/~algorith/implement/wilf/implement.shtml). Original code at book site, Fortran 90 by Burkardt [here](https://people.math.sc.edu/Burkardt/f_src/subset/subset.html)
+
 Nocedal, Jorge, and Stephen J. Wright (2006). [Numerical Optimization](http://users.iems.northwestern.edu/~nocedal/book/index.html) Springer. Related code at Nocedal’s [site](http://users.iems.northwestern.edu/~nocedal/software.html)
 
 Oliveira, Suely and Stewart, David (2006). [Writing Scientific Software - A Guide to Good Style](http://fortranwiki.org/fortran/show/Writing+Scientific+Software+-+A+Guide+to+Good+Style). Cambridge University Press.
