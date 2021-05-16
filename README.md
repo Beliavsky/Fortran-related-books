@@ -227,7 +227,7 @@ Lee, H.J., and W.E. Schiesser (2003). [Ordinary and Partial Differential Equatio
 
 Lee, Wen Ho (2018). [Computational Solid Mechanics for Oil Well Perforator Design](https://www.worldscientific.com/worldscibooks/10.1142/10966#t=toc) World Scientific
 
-Leffelaar P. A. (1993). [On Systems Analysis and Simulation of Ecological Processes with Examples in CSMP and FORTRAN] (https://www.springer.com/us/book/9789401120869) Springer
+Leffelaar P. A. (1993). [On Systems Analysis and Simulation of Ecological Processes with Examples in CSMP and FORTRAN](https://www.springer.com/us/book/9789401120869) Springer
 
 Lucquin, Brigitte, and Olivier Pironneau (1998). [Introduction to Scientific Computing](https://www.wiley.com/en-us/Introduction+to+Scientific+Computing-p-9780471972662) Wiley. Fortran and C code at Pironneau’s [site](https://www.ljll.math.upmc.fr/pironneau/)
 
