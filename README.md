@@ -1,7 +1,7 @@
 # Fortran-related books
 Books with Fortran code, other than Fortran textbooks. This is a copy of the Related Books section of the [Fortran Wiki](http://fortranwiki.org/fortran/show/Books). If you have a book suggestion or if the code of a book is not linked here, please create an issue.
 
-Akaike, Hirotsugu (1975). [TIMSAC-74, a time series analysis and control program package](https://www.amazon.com/TIMSAC-74-analysis-control-Computer-monographs/dp/B0007B3OIW/fortran-wiki-20) Institute of Statistical Mathematics. R package [timsac: Time Series Analysis and Control](https://cran.r-project.org/web/packages/timsac/index.html) has Fortran code.
+Akaike, Hirotsugu (1975). [TIMSAC-74, a time series analysis and control program package].(https://www.amazon.com/TIMSAC-74-analysis-control-Computer-monographs/dp/B0007B3OIW/fortran-wiki-20) Institute of Statistical Mathematics. R package [timsac: Time Series Analysis and Control](https://cran.r-project.org/web/packages/timsac/index.html) has Fortran code.
 
 Akin, J. E. (1994). [Finite Elements for Analysis and Design](https://www.sciencedirect.com/book/9780080506470/finite-elements-for-analysis-and-design) Academic Press
 
