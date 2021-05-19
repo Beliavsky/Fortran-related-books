@@ -343,6 +343,8 @@ Sinha, Mihir K., and Larry R. Padgett (1985). [Reservoir Engineering Techniques 
 
 Siouris, George M. (1996). [An Engineering Approach to Optimal Control and Estimation Theory](https://www.wiley.com/en-us/An+Engineering+Approach+to+Optimal+Control+and+Estimation+Theory-p-9780471121268). Wiley
 
+Skiena, Steven (2011). [Algorithm Design Manual, 3rd ed.](https://www.algorist.com/). Fortran codes [here](https://algorist.com/languages/Fortran.html)
+
 Smetana, Frederick O. (1997). [Introductory Aerodynamics and Hydrodynamics of Wings and Bodies: A Software-Based Approach](https://www.amazon.com/gp/product/1563472422/fortran-wiki-20). American Institute of Aeronautics & Astronautics
 
 Smetana, Frederick O. (1981). [Fortran Codes for Classical Methods in Linear Dynamics](https://www.amazon.com/Fortran-Classical-Methods-Linear-Dynamics/dp/0070584400/fortran-wiki-20). McGraw-Hill
