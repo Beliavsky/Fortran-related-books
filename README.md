@@ -237,7 +237,7 @@ Markus, Arjen (2012). [Modern Fortran in Practice](http://fortranwiki.org/fortra
 
 Marple, S. Lawrence (1987). [Digital Spectral Analysis with Applications](https://www.amazon.com/Spectral-Applications-Prentice-Hall-Processing-1987-03-01/dp/B01K0PWLCO/fortran-wiki-20). Prentice-Hall. Reviewed [here](https://asa.scitation.org/doi/pdf/10.1121/1.398548). Second [edition](https://www.doverpublications.com/048678052x/) has Matlab code.
 
-Martello, Silvano, and Paolo Toth (1990). [Knapsack Problems: Algorithms and Computer Implementations](http://www.or.deis.unibo.it/kp.html)
+Martello, Silvano, and Paolo Toth (1990). [Knapsack Problems: Algorithms and Computer Implementations](http://www.or.deis.unibo.it/kp.html).
 Wiley.
 
 Mattson, Timothy G., Yun (Helen) He, and Alice E. Koniges (2019). [The OpenMP Common Core: Making OpenMP Simple Again](https://mitpress.mit.edu/books/openmp-common-core). MIT Press
