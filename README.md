@@ -175,6 +175,8 @@ Huang, Haibo, Michael C. Sukop, and Xi-Yun Lu (2015). [Multiphase Lattice Boltzm
 
 Hughes, Thomas J. R. (1987). [The Finite Element Method: Linear Static and Dynamic Finite Element Analysis](https://store.doverpublications.com/0486411818.html). Prentice-Hall. Related code [DLEARN](https://www.zsoil.com/dlearn/)
 
+IEEE (1981). [Programs for Digital Signal Processing](https://www.amazon.com/Programs-Processing-Institute-Electrical-Electronics/dp/0471059625). IEEE Press. Reviewed [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1456363)
+
 Itkin, A. L., and E. G. Kolesnichenko (1997). [Microscopic Theory of Condensation in Gases and Plasma](https://www.worldscientific.com/worldscibooks/10.1142/3325). World Scientific
 
 Izaac, Joshua, and Jingbo Wang (2018). [Computational Quantum Mechanics](https://www.springer.com/gp/book/9783319999296). Springer
