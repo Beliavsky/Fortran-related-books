@@ -223,7 +223,7 @@ Lawson, Charles L., and Richard J. Hanson (1995). [Solving Least Squares Problem
 
 LeVeque, Randall J. (2012). [Finite Volume Methods for Hyperbolic Problems](http://www.clawpack.org/book.html). Cambridge University Press
 
-Lee, H.J., and W.E. Schiesser (2003). [Ordinary and Partial Differential Equation Routines in C, C++, Fortran, Java, Maple, and MATLAB](https://www.routledge.com/Ordinary-and-Partial-Differential-Equation-Routines-in-C-C-Fortran/Lee-Schiesser/p/book/9781584884231). Chapman and Hall/CRC
+Lee, H.J., and W.E. (2003). [Ordinary and Partial Differential Equation Routines in C, C++, Fortran, Java, Maple, and MATLAB](https://www.routledge.com/Ordinary-and-Partial-Differential-Equation-Routines-in-C-C-Fortran/Lee-Schiesser/p/book/9781584884231). Chapman and Hall/CRC
 
 Lee, Wen Ho (2018). [Computational Solid Mechanics for Oil Well Perforator Design](https://www.worldscientific.com/worldscibooks/10.1142/10966#t=toc). World Scientific
 
@@ -318,6 +318,10 @@ Saad, Yousef (2011). [Numerical Methods for Large Eigenvalue Problems - 2nd Edit
 Salmi, Tapio, Johan Wärnå , José Rafael Hernández Carucci and César A. de Araújo Filho (2020). [Chemical Reaction Engineering: A Computer-Aided Approach](https://www.degruyter.com/document/doi/10.1515/9783110611601/html). De Gruyter
 
 Santner, Thomas J., Brian J. Williams, and William I. Notz (2003). [The Design and Analysis of Computer Experiments](https://www.asc.ohio-state.edu/statistics/comp_exp//book.html). Springer
+
+Schiesser, W. E., and C. A. Silebi (1997). [Computational Transport Phenomena: Numerical Methods for the Solution of Transport Problems](https://www.cambridge.org/us/academic/subjects/engineering/chemical-engineering/computational-transport-phenomena-numerical-methods-solution-transport-problems). Cambridge University Press
+
+Schiesser, W. E. (1991). [The Numerical Method of Lines: Integration of Partial Differential Equations 1st ed.](https://www.amazon.com/Numerical-Method-Lines-Integration-Differential/dp/0126241309). Academic Press
 
 Schittkowski, Klaus (2002). [Numerical Data Fitting in Dynamical Systems - A Practical Introduction with Applications and Software](http://klaus-schittkowski.de/dyn_sys_book.htm). Kluwer
 
