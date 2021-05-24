@@ -189,7 +189,7 @@ Jeppson, Roland W. Jeppson (1976). [Analysis of Flow in Pipe Networks](https://w
 
 Jones, Russell K., and Tracy Crabtree (1988). [FORTRAN Tools for VAX/VMS and MS-DOS](https://www.amazon.com/FORTRAN-Tools-VAX-VMS-MS-DOS/dp/0471619760/fortran-wiki-20). Wiley
 
-Kagiwada, Harriet, Robert Kalaba, Nima Rasakhoo, and Karl Spingarn (1986). Numerical Derivatives and Nonlinear Analysis
+Kagiwada, Harriet, Robert Kalaba, Nima Rasakhoo, and Karl Spingarn (1986). [Numerical Derivatives and Nonlinear Analysis](https://www.springer.com/us/book/9781468450583). Springer
 
 Kahaner, David, Cleve Moler, and Stephen Nash (1998). [Numerical Methods and Software](https://www.amazon.com/Numerical-Methods-Software-Disk-Included/dp/0136272584/fortran-wiki-20). Prentice Hall. Fortran 90 code [here](https://people.sc.fsu.edu/~jburkardt/f_src/nms/nms.html)
 
