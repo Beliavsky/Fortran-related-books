@@ -375,7 +375,7 @@ Stearns, Samuel D., and Ruth A. David (1992). [Signal Processing Algorithms in F
 
 Stroud, Arthur (1971). [Approximate Calculation of Multiple Integrals](https://www.amazon.com/Approximate-Calculation-0130438936-Prentice-Hall-Computation/dp/B004T9BACK). Prentice Hall. Fortran 90 code by John Burkardt [here](https://people.sc.fsu.edu/~jburkardt/f_src/stroud/stroud.html)
 
-Stroud, Arthur, and Don Secrest (1966). [Gaussian Quadrature Formulas](https://www.amazon.com/Gaussian-quadrature-Prentice-Hall-automatic-computation/dp/B0006BNRQ2). Prentice Hall. Fortran 90 code by John Burkardt [here](https://people.sc.fsu.edu/~jburkardt/f_src/stroud/stroud.html)
+Stroud, Arthur, and Don Secrest (1966). [Gaussian Quadrature Formulas](https://www.amazon.com/Gaussian-quadrature-Prentice-Hall-automatic-computation/dp/B0006BNRQ2). Prentice Hall. Fortran 90 code by John Burkardt [here](https://people.sc.fsu.edu/~jburkardt/f_src/stroud/stroud.html) and by Ivan Pribec [here](https://github.com/ivan-pi/stroud_quad)
 
 Tanizaki, Hisashi (2004). [Computational Methods in Statistics and Econometrics](http://www2.econ.osaka-u.ac.jp/~tanizaki/cv/books/cmse/cmse.pdf). CRC Press
 
