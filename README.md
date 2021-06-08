@@ -65,6 +65,8 @@ Chung, T. J. (2010). [Computational Fluid Dynamics, 2nd ed.](https://www.cambrid
 
 Clerman, Norman S. and Spector, Walter (2011). [Modern Fortran - Style and Usage](http://fortranwiki.org/fortran/show/Modern+Fortran+-+Style+and+Usage). Cambridge University Press. [reviewed](https://www.jstatsoft.org/article/view/v047b01) in the Journal of Statistical Software
 
+Cody, William, and William Waite (1980). [Software Manual for the Elementary Functions](https://www.amazon.com/Elementary-Functions-Prentice-Hall-computational-mathematics/dp/0138220646). Prentice Hall. Code at Waite's [site](https://ecee.colorado.edu/~waite/pubs/math/Elefunt.html)
+
 Coker, A. Kayode (1995). [Fortran Programs for Chemical Process Design, Analysis, and Simulation](https://www.elsevier.com/books/fortran-programs-for-chemical-process-design-analysis-and-simulation/coker/978-0-88415-280-4). Gulf Professional
 
 Crawley, Stanley W., and Robert M. Dillon (1993) [Steel Buildings: Analysis and Design, 4th ed.](https://www.amazon.com/Steel-Buildings-Analysis-Stanley-Crawley/dp/0471842982/fortran-wiki-20). Wiley
