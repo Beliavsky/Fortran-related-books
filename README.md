@@ -287,6 +287,8 @@ Pang, Tao (2006). [An Introduction to Computational Physics, 2nd Edition](http:/
 
 Pao, Yen-Ching (1998). [Engineering Analysis: Interactive Methods and Programs with FORTRAN, QuickBASIC, MATLAB, and Mathematica](https://www.routledge.com/Engineering-Analysis-Interactive-Methods-and-Programs-with-FORTRAN-QuickBASIC/Pao/p/book/9780849320163). CRC Press
 
+París, Federico, and José Cañas (1997) [Boundary Element Method: Fundamentals and Applications](https://www.amazon.com/Boundary-Element-Method-Fundamentals-Applications/dp/0198565372). Oxford University Press. Code at Burkardt's [site](https://people.math.sc.edu/Burkardt/f77_src/betis/betis.html).
+
 Pozrikidis, C. (2017). [Fluid Dynamics: Theory, Computation, and Numerical Simulation, 3rd ed.](http://dehesa.freeshell.org/FD3/). Springer
 
 Pozrikidis, C. (2008). [Numerical Computation in Science and Engineering, 2nd. ed.](http://dehesa.freeshell.org/NCSE2/). Oxford University Press
