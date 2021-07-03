@@ -235,6 +235,8 @@ Lee, Wen Ho (2018). [Computational Solid Mechanics for Oil Well Perforator Desig
 
 Leffelaar P. A. (1993). [On Systems Analysis and Simulation of Ecological Processes with Examples in CSMP and FORTRAN](https://www.springer.com/us/book/9789401120869). Springer
 
+Liu, G.R., and M. B. Liu (2003). [Smoothed Particle Hydrodynamics: A Meshfree Particle Method](https://www.worldscientific.com/worldscibooks/10.1142/5340). World Scientific. Code at site and at [GitHub](https://github.com/QuantumWarlock/LiuBook_SPH3D)
+
 Lucquin, Brigitte, and Olivier Pironneau (1998). [Introduction to Scientific Computing](https://www.wiley.com/en-us/Introduction+to+Scientific+Computing-p-9780471972662). Wiley. Fortran and C code at Pironneau’s [site](https://www.ljll.math.upmc.fr/pironneau/)
 
 Marazzi, Alfio (1993). [Algorithms, Routines, and S-Functions for Robust Statistics](https://www.routledge.com/Algorithms-Routines-and-S-Functions-for-Robust-Statistics/Marazzi/p/book/9780412079917). Chapman and Hall/CRC. FORTRAN 77 code available in [robeth](https://cran.r-project.org/web/packages/robeth/index.html) R package
