@@ -403,6 +403,8 @@ Wang, H. F., and M. P. Anderson (1982). [Introduction to groundwater modeling: F
 
 Watson, Neville, and Jos Arrillaga (2003). [Power Systems Electromagnetic Transients Simulation](https://digital-library.theiet.org/content/books/po/pbpo039e). Institution of Engineering and Technology
 
+Wellek, Stefan (2010). [Testing Statistical Hypotheses of Equivalence and Noninferiority, 2nd ed.](https://www.routledge.com/Testing-Statistical-Hypotheses-of-Equivalence-and-Noninferiority/Wellek/p/book/9781439808184). CRC
+
 Wesseling, Pieter (1992). [An Introduction to Multigrid Methods](https://www.amazon.com/Pieter-Wesseling-Introduction-Multigrid-Methods/dp/B008UBETYE/fortran-wiki-20). Wiley. Code by Wesseling [here](http://www.mgnet.org/mgnet-codes.html)
 
 Weiland, Claus (2010). [Computational Space Flight Mechanics](https://www.springer.com/us/book/9783642135828). Springer
