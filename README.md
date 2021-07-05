@@ -19,6 +19,8 @@ Antia, H.M. (2012). [Numerical methods for scientists and engineers, 3rd ed.](ht
 
 Axelrod, Robert (1998). [The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration](http://www-personal.umich.edu/~axe/research/Software/ComplexCoop.html). Princeton University Press. Code [here](http://www-personal.umich.edu/~axe/research/Software/CC/CC2.html)
 
+Bagirov, Adil, Napsu Karmitsa, and Marko M. Mäkelä (2014). [Introduction to Nonsmooth Optimization: Theory, Practice and Software](http://napsu.karmitsa.fi/). Springer
+
 Bartschat, Klaus (Ed.) (1996). [Computational Atomic Physics: Electron and Positron Collisions with Atoms and Ions](https://www.springer.com/us/book/9783642646553). Springer
 
 Bathe, Klaus-Jurgen (2014). [Finite Element Procedures, 2nd ed.](https://www.amazon.com/Finite-Element-Procedures-Klaus-J%C3%BCrgen-Bathe/dp/0979004950). Prentice Hall. Text [here](https://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf) Related code [ADINA](http://www.adina.com/educ.shtml), [OpenSTAP](https://github.com/HaoguangYang/OpenSTAP), and [STAP90](https://github.com/weixiao-huang/STAP90)
