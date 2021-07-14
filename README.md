@@ -75,6 +75,8 @@ Cody, William, and William Waite (1980). [Software Manual for the Elementary Fun
 
 Coker, A. Kayode (1995). [Fortran Programs for Chemical Process Design, Analysis, and Simulation](https://www.elsevier.com/books/fortran-programs-for-chemical-process-design-analysis-and-simulation/coker/978-0-88415-280-4). Gulf Professional
 
+Cook, Robert D., David S. Malkus, Michael E. Plesha, and Robert J. Witt (2001). [Concepts and Applications of Finite Element Analysis, 4th ed.](https://www.amazon.com/Concepts-Applications-Finite-Element-Analysis/dp/0471356050). Wiley
+
 Crawley, Stanley W., and Robert M. Dillon (1993) [Steel Buildings: Analysis and Design, 4th ed.](https://www.amazon.com/Steel-Buildings-Analysis-Stanley-Crawley/dp/0471842982/fortran-wiki-20). Wiley
 
 Cullum, Jane K. and Ralph A. Willoughby (1985) [Lanczos Algorithms for Large Symmetric Eigenvalue Computations: Vol. I: Theory](https://epubs.siam.org/doi/book/10.1137/1.9780898719192). Birkhauser. Code and text of 2nd volume at [Netlib](http://www.netlib.org/lanczos/)
