@@ -169,6 +169,8 @@ Hageman, L. and D. M. Young (1981). [Applied Iterative Methods](https://store.do
 
 Hager, Georg and Gerhard Wellein (2010). [Introduction to High Performance Computing for Scientists and Engineers](https://blogs.fau.de/hager/hpc-book). CRC
 
+Hager, William (1988). [Applied Numerical Linear Algebra](https://www.amazon.com/Applied-Numerical-Linear-Algebra-William/dp/0130412945). Prentice Hall. NAPACK code at John Burkardt's [site](https://people.sc.fsu.edu/~jburkardt/f77_src/napack/napack.html)
+
 Hairer, Ernst, Syvert P. Nørsett, and Gerhard Wanner (1993). [Solving Ordinary Differential Equations I: Nonstiff Problems](https://www.springer.com/gp/book/9783540566700). Springer. code at Hairer’s [site](http://www.unige.ch/~hairer/software.html)
 
 Hairer, Ernst, and Gerhard Wanner (1996). [Solving Ordinary Differential Equations II: Stiff and Differential-Algebraic Problems](https://www.springer.com/gp/book/9783540604525). Springer. code at Hairer’s [site](http://www.unige.ch/~hairer/software.html)
