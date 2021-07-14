@@ -272,6 +272,8 @@ Nazareth, J.L. (2001). [DLP and Extensions: An Optimization Model and Decision S
 
 Neculai, Andrei (2020). [Nonlinear Conjugate Gradient Methods for Unconstrained Optimization](https://www.springer.com/gp/book/9783030429492). Springer. Fortran codes at author’s [site](https://camo.ici.ro/neculai/ansoft.htm)
 
+Neder, Reinhard B., and Thomas Proffen (2009). [Diffuse Scattering and Defect Structure Simulations: A Cook Book Using the Program DISCUS](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199233694.001.0001/acprof-9780199233694). Oxford University Press. Code at [GitHub](http://tproffen.github.io/DiffuseCode/)
+
 Newton, H. Joseph (1988). [Timeslab: A Time Series Analysis Laboratory](https://www.amazon.com/Timeslab-Laboratory-Diskettes-Statistics-Probability/dp/0534091989/fortran-wiki-20). Wadsworth & Brook/Cole. Timeslab code at author’s [site](https://web.stat.tamu.edu/~jnewton/)
 
 Nguyen, Duc Thai (2002). [Parallel-Vector Equation Solvers for Finite Element Engineering Applications](https://www.springer.com/us/book/9780306466403). Springer
