@@ -39,7 +39,7 @@ Bestehorn, Michael (2018). [Computational Physics With Worked Out Examples in FO
 
 Bhatt, Prab (2003). [Programming the Dynamic Analysis of Structures](https://www.routledge.com/Programming-the-Dynamic-Analysis-of-Structures/Bhatt/p/book/9780367863494). CRC
 
-Bierman, Gerald J. (1977). [Factorization Methods for Discrete Sequential Estimation](https://store.doverpublications.com/0486449815.html) Academic Press. (contains Fortran pseudo-code for numerically stable Kalman filters)
+Bierman, Gerald J. (1977). [Factorization Methods for Discrete Sequential Estimation](https://store.doverpublications.com/0486449815.html) Academic Press. (contains Fortran pseudo-code for numerically stable Kalman filters). The code in [esl.tgz from Netlib](https://www.netlib.org/a/) does estimation and smoothing by UDU**T and square root information filter SRIF for Kalman filtering.
 
 Blazek, Jiri (2015). [Computational Fluid Dynamics: Principles and Applications, 3rd ed.](https://booksite.elsevier.com/9780080999951/). Butterworth-Heinemann
 
