@@ -287,6 +287,8 @@ For Computers and Calculators, 2nd. ed.](https://www3.cs.stonybrook.edu/~algorit
 
 Nocedal, Jorge, and Stephen J. Wright (2006). [Numerical Optimization](http://users.iems.northwestern.edu/~nocedal/book/index.html). Springer. Related code at Nocedal’s [site](http://users.iems.northwestern.edu/~nocedal/software.html)
 
+Norouzi, Hamid Reza, Reza Zarghami, Rahmat Sotudeh-Gharebagh, and Navid Mostoufi (2016). [Coupled CFD-DEM Modeling: Formulation, Implementation and Application to Multiphase Flows](https://www.wiley.com//legacy/wileychi/norouzi/). Wiley
+
 Oliveira, Suely and Stewart, David (2006). [Writing Scientific Software - A Guide to Good Style](http://fortranwiki.org/fortran/show/Writing+Scientific+Software+-+A+Guide+to+Good+Style). Cambridge University Press.
 
 Olver, Frank W. J., Daniel W. Lozier, Ronald F. Boisvert, and Charles W. Clark (2010). [NIST Handbook of Mathematical Functions](https://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521192255). Cambridge University Press. Associated with the [NIST Digital Library of Mathematical Functions](https://dlmf.nist.gov/)
