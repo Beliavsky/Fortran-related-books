@@ -343,6 +343,8 @@ Salmi, Tapio, Johan Wärnå , José Rafael Hernández Carucci and César A. de A
 
 Santner, Thomas J., Brian J. Williams, and William I. Notz (2003). [The Design and Analysis of Computer Experiments](https://www.asc.ohio-state.edu/statistics/comp_exp//book.html). Springer
 
+Schattke, Wolfgang, and Ricardo Díez Muiño (2013).[Quantum Monte-Carlo Programming: For Atoms, Molecules, Clusters, and Solids](https://www.wiley.com/en-us/Quantum+Monte+Carlo+Programming%3A+For+Atoms%2C+Molecules%2C+Clusters%2C+and+Solids-p-9783527675326). Wiley.
+
 Schiesser, W. E., and C. A. Silebi (1997). [Computational Transport Phenomena: Numerical Methods for the Solution of Transport Problems](https://www.cambridge.org/us/academic/subjects/engineering/chemical-engineering/computational-transport-phenomena-numerical-methods-solution-transport-problems). Cambridge University Press
 
 Schiesser, W. E. (1991). [The Numerical Method of Lines: Integration of Partial Differential Equations 1st ed.](https://www.amazon.com/Numerical-Method-Lines-Integration-Differential/dp/0126241309). Academic Press
