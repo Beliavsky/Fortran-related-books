@@ -411,7 +411,7 @@ Trapp, Michael, and Andreas Öchsner (2018). [Computational Plasticity for Finit
 
 Traub, Joseph (1964). [Iterative Methods for the Solution of Equations](https://www.amazon.com/Iterative-Methods-Solution-Equations-Publication/dp/0828403120) Prentice Hall. Code by John Bukardt [here](https://people.sc.fsu.edu/~jburkardt/f_src/zoomin/zoomin.html)
 
-Villadsen, John, and Michael L. Michelsen (1978). [Solution of Differential Equations Models by Polynomial Approximation](https://www.amazon.com/differential-approximation-Prentice-Hall-international-engineering/dp/0138222053/fortran-wiki-20). Prentice-Hall
+Villadsen, John, and Michael L. Michelsen (1978). [Solution of Differential Equations Models by Polynomial Approximation](https://www.amazon.com/differential-approximation-Prentice-Hall-international-engineering/dp/0138222053). Prentice-Hall. Modernized code in [stiff3](https://github.com/ivan-pi/stiff3) on GitHub by Ivan Pribec
 
 Vowels, Robin A. (1998). [Algorithms and Data Structures in F and Fortran](http://pages.swcp.com/~walt/fortran_store/Html/Info/books/adsff.html). Unicomp
 
