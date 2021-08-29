@@ -401,6 +401,8 @@ Stroud, Arthur (1971). [Approximate Calculation of Multiple Integrals](https://w
 
 Stroud, Arthur, and Don Secrest (1966). [Gaussian Quadrature Formulas](https://www.amazon.com/Gaussian-quadrature-Prentice-Hall-automatic-computation/dp/B0006BNRQ2). Prentice Hall. Fortran 90 code by John Burkardt [here](https://people.sc.fsu.edu/~jburkardt/f_src/stroud/stroud.html) and by Ivan Pribec [here](https://github.com/ivan-pi/stroud_quad)
 
+Szabo, Attila, and Neil S. Ostlund (1989). [Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory](https://store.doverpublications.com/0486691861.html). McGraw-Hill. Code [here](http://www.ccl.net/cca/software/SOURCES/FORTRAN/szabo/index.html)
+
 Tanizaki, Hisashi (2004). [Computational Methods in Statistics and Econometrics](http://www2.econ.osaka-u.ac.jp/~tanizaki/cv/books/cmse/cmse.pdf). CRC Press
 
 Thompson, William J. (1997). [Atlas for Computing Mathematical Functions: An Illustrated Guide for Practitioners with Programs in FORTRAN and Mathematica](https://www.wolfram.com/books/profile.cgi?id=3844). Wiley
