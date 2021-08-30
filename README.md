@@ -95,6 +95,8 @@ Day, A. Colin (1972). [Fortran Techniques with Special Reference to Non-numerica
 
 De Gooijer, Jan G. (2017). [Elements of Nonlinear Time Series Analysis and Forecasting](https://www.springer.com/us/book/9783319432519). Springer
 
+De Graef, Marc (2003). [Introduction to Conventional Transmission Electron Microscopy](http://ctem.web.cmu.edu/frames.html). Cambridge University Press
+
 Dennis, Jr., J.E., and Robert B. Schnabel (1996). [Numerical Methods for Unconstrained Optimization and Nonlinear Equations](https://my.siam.org/Store/Product/viewproduct/?ProductId=755). SIAM. Fortran 90 code for UNCMIN at Alan Miller’s [site](https://jblevins.org/mirror/amiller/)
 
 Deutsch, C.V. and A.G. Journel (1997). [GSLIB: Geostatistical Software Library and Users Guide, 2nd. ed.](http://claytonvdeutsch.com/research/). Oxford University Press. Code [here](http://gslib.com/)
