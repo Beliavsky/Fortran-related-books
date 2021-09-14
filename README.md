@@ -323,6 +323,9 @@ Press, Teukolsky, Vetterling and Flannery (1996). [Numerical Recipes in Fortran 
 
 Rabiner, Lawrence R., and Bernard Gold (1975). [Theory and Application of Digital Signal Processing](https://www.amazon.com/Theory-Application-Digital-Signal-Processing/dp/0139141014/fortran-wiki-20). Prentice Hall
 
+Ramkarthik, M.S., and Payal D. Solanki (2021). [Numerical Recipes in Quantum Information Theory and Quantum Computing: An Adventure in FORTRAN 90](https://www.routledge.com/Numerical-Recipes-in-Quantum-Information-Theory-and-Quantum-Computing-An/Ramkarthik-Solanki/p/book/9780367759285).
+CRC Press
+
 Ramos, Juan Antonio Hernandez, and Lopez, Javier Escoto (2020). [How to learn Applied Mathematics through modern FORTRAN](http://www.amazon.com/dp/B0851LN6HT/fortran-wiki-20/fortran-wiki-20). Independently published [code and text](https://github.com/jahrWork/NumericalHUB)
 
 Reddy, J. N. (2005). [An Introduction to the Finite Element Method, 3rd ed.](http://highered.mheducation.com/sites/0072466855/index.html). McGraw-Hill. Code [here](https://mechanics.tamu.edu/fem-codes-from-linear-fem-book-in-fortran/)
