@@ -127,6 +127,8 @@ Ferziger, Joel H., Peric, Milovan, and Street, Robert L. (2002). [Computational 
 
 Finlayson, Bruce A. (1980). [Nonlinear Analysis in Chemical Engineering](http://www.chemecomp.com/resale/Nonlinear/program_index.htm). McGraw-Hill.
 
+Fischer, Charlotte Frose, Tomas Brage, and Per Jonsson (1997). [Computational Atomic Structure: An MCHF Approach](https://www.routledge.com/Computational-Atomic-Structure-An-MCHF-Approach/Froese-Fischer/p/book/9780367401108). CRC Press. Code [here](https://www.pks.mpg.de/~george/HF/index.html) and [here](https://github.com/cffischer)
+
 Fletcher, C. A. J. (1998). [Computational Techniques for Fluid Dynamics 1: Fundamental and General Techniques](https://www.springer.com/us/book/9783540530589). Springer
 
 Fletcher, C. A. J. (1991). [Computational Techniques for Fluid Dynamics 2: Specific Techniques for Different Flow Categories](https://www.springer.com/us/book/9783540536017). Springer
