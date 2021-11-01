@@ -418,6 +418,8 @@ Szabo, Attila, and Neil S. Ostlund (1989). [Modern Quantum Chemistry: Introducti
 
 Tanizaki, Hisashi (2004). [Computational Methods in Statistics and Econometrics](http://www2.econ.osaka-u.ac.jp/~tanizaki/cv/books/cmse/cmse.pdf). CRC Press
 
+Thompson, Ian J., and Filomena M. Nunes (2009). [Nuclear Reactions for Astrophysics: Principles, Calculation and Applications of Low-Energy Reactions](http://www.fresco.org.uk/book/reactions.htm). Cambridge University Press
+
 Thompson, William J. (1997). [Atlas for Computing Mathematical Functions: An Illustrated Guide for Practitioners with Programs in FORTRAN and Mathematica](https://www.wolfram.com/books/profile.cgi?id=3844). Wiley
 
 Tikhonov, A.N., Goncharsky, A., Stepanov, V.V., and Yagola, A.G. (1995). [Numerical Methods for the Solution of Ill-Posed Problems](https://www.springer.com/us/book/9780792335832). Springer
