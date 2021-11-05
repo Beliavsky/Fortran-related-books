@@ -99,6 +99,8 @@ De Graef, Marc (2003). [Introduction to Conventional Transmission Electron Micro
 
 Dennis, Jr., J.E., and Robert B. Schnabel (1996). [Numerical Methods for Unconstrained Optimization and Nonlinear Equations](https://my.siam.org/Store/Product/viewproduct/?ProductId=755). SIAM. Fortran 90 code for UNCMIN at Alan Miller’s [site](https://jblevins.org/mirror/amiller/)
 
+de Souza Neto, E.A., D. Peri, and D.R.J. Owen (2008). [Computational Methods for Plasticity: Theory and Applications](https://www.wiley.com/legacy/wileychi/desouzaneto/). Wiley. Code at book site and also [GitHub](https://github.com/mestradam/hyplas)
+
 Deutsch, C.V. and A.G. Journel (1997). [GSLIB: Geostatistical Software Library and Users Guide, 2nd. ed.](http://claytonvdeutsch.com/research/). Oxford University Press. Code [here](http://gslib.com/)
 
 DeVries, Paul L. (1994). [A First Course in Computational Physics](https://www.amazon.com/First-Course-Computational-Physics/dp/0471548693/fortran-wiki-20). Wiley. reviewed [here](https://aapt.scitation.org/doi/abs/10.1119/1.17476)
