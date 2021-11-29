@@ -15,7 +15,7 @@ Anagnostopoulos, Konstantinos (2016). [Computational Physics](http://www.physics
 
 Angell, Ian O., and Gareth Griffith (1987). [High-resolution Computer Graphics Using FORTRAN 77](https://link.springer.com/book/10.1007/978-1-349-18644-0). Palgrave Macmillan
 
-Antia, H.M. (2012). [Numerical methods for scientists and engineers, 3rd ed.](https://www.tifr.res.in/~antia/nmse3.html). Hindustan Book Agency.
+Antia, H.M. (2012). [Numerical methods for scientists and engineers, 3rd ed.](https://www.tifr.res.in/~antia/nmse3.html) Hindustan Book Agency.
 
 Axelrod, Robert (1998). [The Complexity of Cooperation: Agent-Based Models of Competition and Collaboration](http://www-personal.umich.edu/~axe/research/Software/ComplexCoop.html). Princeton University Press. Code [here](http://www-personal.umich.edu/~axe/research/Software/CC/CC2.html)
 
