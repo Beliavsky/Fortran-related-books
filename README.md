@@ -41,6 +41,8 @@ Bhatt, Prab (2003). [Programming the Dynamic Analysis of Structures](https://www
 
 Bierman, Gerald J. (1977). [Factorization Methods for Discrete Sequential Estimation](https://store.doverpublications.com/0486449815.html) Academic Press. (contains Fortran pseudo-code for numerically stable Kalman filters). The code in [esl.tgz from Netlib](https://www.netlib.org/a/) does estimation and smoothing by UDU**T and square root information filter SRIF for Kalman filtering.
 
+Birgin, E.G., and J. M. Martínez (2014). [Practical Augmented Lagrangian Methods for Constrained Optimization](https://www.ime.usp.br/~egbirgin/tango/publications.php). SIAM
+
 Blazek, Jiri (2015). [Computational Fluid Dynamics: Principles and Applications, 3rd ed.](https://booksite.elsevier.com/9780080999951/). Butterworth-Heinemann
 
 Bloomfield, Peter (1976). [Fourier Analysis of Time Series, 1st ed.](https://books.google.com/books?id=UtpQAAAAMAAJ&source=gbs_book_other_versions). First edition has Fortran code, the 2nd edition, published in 2000, has S-PLUS code.
