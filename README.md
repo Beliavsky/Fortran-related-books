@@ -338,6 +338,8 @@ CRC Press
 
 Ramos, Juan Antonio Hernandez, and Lopez, Javier Escoto (2020). [How to learn Applied Mathematics through modern FORTRAN](http://www.amazon.com/dp/B0851LN6HT/fortran-wiki-20/fortran-wiki-20). Independently published [code and text](https://github.com/jahrWork/NumericalHUB)
 
+Randall, David A. [An Introduction to Numerical Modeling of the Atmosphere](http://hogback.atmos.colostate.edu/group/dave/at604pdf/AT604_LaTeX_Book.pdf)
+
 Reddy, J. N. (2005). [An Introduction to the Finite Element Method, 3rd ed.](http://highered.mheducation.com/sites/0072466855/index.html). McGraw-Hill. Code [here](https://mechanics.tamu.edu/fem-codes-from-linear-fem-book-in-fortran/)
 
 Robey, Robert and Yuliana Zamora (2021). [Parallel and High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing). Manning
