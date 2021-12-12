@@ -53,6 +53,8 @@ Boor, Carl de (1978). [A Practical Guide to Splines](https://www.springer.com/gp
 
 Bose, Sujit Kumar (2019). [Numerical Methods of Mathematics Implemented in Fortran](https://www.springer.com/gp/book/9789811371134). Springer. reviewed [here](https://www.maa.org/press/maa-reviews/numerical-methods-of-mathematics-implemented-in-fortran)
 
+Bowyer, Adrian, and John Woodwark (1983).[A Programmer's Geometry](https://www.biblio.com/a-programmers-geometry-by-adrian-bowyer-john-woodwark/work/1845106). Butterworths
+
 Boyd, John P. (2001). [Chebyshev and Fourier Spectral Methods](https://store.doverpublications.com/0486411834.html). Dover. Modified code [here](https://gist.github.com/ivan-pi/1b476dabd11b651fc2ea6e4fd0c11289)
 
 Brandt, Siegmund (1999). [Data Analysis: Statistical and Computational Methods for Scientists and Engineers](https://www.springer.com/gp/book/9780387984988). Springer
