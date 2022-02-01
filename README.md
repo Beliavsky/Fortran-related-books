@@ -456,4 +456,9 @@ White, Robert E. (2016). [Computational Mathematics Models, Methods, and Analysi
 
 Yanushevsky, Rafael (2019). [Modern Missile Guidance, 2nd ed.](https://www.routledge.com/Modern-Missile-Guidance/Yanushevsky/p/book/9780815384861). CRC
 
+Zienkiewicz, O.C., R. L. Taylor, and J.Z. Zhu (2013). [The Finite Element Method: Its Basis and Fundamentals
+7th Edition](https://www.elsevier.com/books/the-finite-element-method-its-basis-and-fundamentals/zienkiewicz/978-1-85617-633-0). Oxford. [feappv code at GitHub](https://github.com/sanjayg0/feappv)
+
+O. C. Zienkiewicz, O.C., and R. L. Taylor (2013). [The Finite Element Method for Solid and Structural Mechanics, 7th Ed.](https://www.elsevier.com/books/the-finite-element-method-for-solid-and-structural-mechanics/zienkiewicz/978-1-85617-634-7). Elsevier. [feappv code at GitHub](https://github.com/sanjayg0/feappv)
+
 Zubairi, Omair and Fridolin Weber (2018). [Introduction to Computational Physics for Undergraduates](https://iopscience.iop.org/book/978-1-6817-4896-2). Morgan & Claypool
