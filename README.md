@@ -105,7 +105,7 @@ De Graef, Marc (2003). [Introduction to Conventional Transmission Electron Micro
 
 Dennis, Jr., J.E., and Robert B. Schnabel (1996). [Numerical Methods for Unconstrained Optimization and Nonlinear Equations](https://my.siam.org/Store/Product/viewproduct/?ProductId=755). SIAM. Fortran 90 code for UNCMIN at Alan Miller’s [site](https://jblevins.org/mirror/amiller/)
 
-Dhatt, Gouri Dhatt, and Gilbert Touzot (1984). [The Finite Element Method Displayed](https://www.amazon.com/Finite-Element-Method-Displayed/dp/0471901105). Wiley. Code at [GitHub](https://github.com/freevryheid/FEM/tree/master/DT)
+Dhatt, Gouri, and Gilbert Touzot (1984). [The Finite Element Method Displayed](https://www.amazon.com/Finite-Element-Method-Displayed/dp/0471901105). Wiley. Code at [GitHub](https://github.com/freevryheid/FEM/tree/master/DT)
 
 de Souza Neto, E.A., D. Peri, and D.R.J. Owen (2008). [Computational Methods for Plasticity: Theory and Applications](https://www.wiley.com/legacy/wileychi/desouzaneto/). Wiley. Code at book site and also [GitHub](https://github.com/mestradam/hyplas)
 
