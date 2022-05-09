@@ -49,6 +49,8 @@ Bloomfield, Peter (1976). [Fourier Analysis of Time Series, 1st ed.](https://boo
 
 Bratley, Paul, Bennet L. Fox, and Linus E. Schrage (1987). [A Guide to Simulation, 2nd. ed.](https://www.springer.com/us/book/9780387964676). Springer.
 
+Brázdová, Veronika, and David R. Bowler (2013). [Atomistic Computer Simulations: A Practical Guide](http://davidbowler.github.io/AtomisticSimulations/index.html). Wiley.
+
 Boor, Carl de (1978). [A Practical Guide to Splines](https://www.springer.com/gp/book/9780387953663). Springer. PPPACK Fortran 90 code [here](https://people.sc.fsu.edu/~jburkardt/f_src/pppack/pppack.html)
 
 Bose, Sujit Kumar (2019). [Numerical Methods of Mathematics Implemented in Fortran](https://www.springer.com/gp/book/9789811371134). Springer. reviewed [here](https://www.maa.org/press/maa-reviews/numerical-methods-of-mathematics-implemented-in-fortran)
