@@ -105,8 +105,6 @@ De Graef, Marc (2003). [Introduction to Conventional Transmission Electron Micro
 
 Dennis, Jr., J.E., and Robert B. Schnabel (1996). [Numerical Methods for Unconstrained Optimization and Nonlinear Equations](https://my.siam.org/Store/Product/viewproduct/?ProductId=755). SIAM. Fortran 90 code for UNCMIN at Alan Miller’s [site](https://jblevins.org/mirror/amiller/)
 
-Dhatt, Gouri, and Gilbert Touzot (1984). [The Finite Element Method Displayed](https://www.amazon.com/Finite-Element-Method-Displayed/dp/0471901105). Wiley. Code at [GitHub](https://github.com/freevryheid/FEM/tree/master/DT)
-
 de Souza Neto, E.A., D. Peri, and D.R.J. Owen (2008). [Computational Methods for Plasticity: Theory and Applications](https://www.wiley.com/legacy/wileychi/desouzaneto/). Wiley. Code at book site and also [GitHub](https://github.com/mestradam/hyplas)
 
 Deutsch, C.V. and A.G. Journel (1997). [GSLIB: Geostatistical Software Library and Users Guide, 2nd. ed.](http://claytonvdeutsch.com/research/). Oxford University Press. Code [here](http://gslib.com/)
@@ -114,6 +112,8 @@ Deutsch, C.V. and A.G. Journel (1997). [GSLIB: Geostatistical Software Library a
 DeVries, Paul L. (1994). [A First Course in Computational Physics](https://www.amazon.com/First-Course-Computational-Physics/dp/0471548693/fortran-wiki-20). Wiley. reviewed [here](https://aapt.scitation.org/doi/abs/10.1119/1.17476)
 
 Devroye, Luc (1986). [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html). Springer. Devroye [says](http://luc.devroye.org/rng.html)“[Alan Miller](https://jblevins.org/mirror/amiller/) … programmed most algorithms” from the book.
+
+Dhatt, Gouri, and Gilbert Touzot (1984). [The Finite Element Method Displayed](https://www.amazon.com/Finite-Element-Method-Displayed/dp/0471901105). Wiley. Code at [GitHub](https://github.com/freevryheid/FEM/tree/master/DT)
 
 Dierckx, Paul (1993). [Curve and Surface Fitting with Splines](https://global.oup.com/academic/product/curve-and-surface-fitting-with-splines-9780198534402). Oxford. code [here](http://www.netlib.org/dierckx/)
 
