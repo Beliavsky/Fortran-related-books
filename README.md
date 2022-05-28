@@ -191,6 +191,10 @@ Hairer, Ernst, Syvert P. Nørsett, and Gerhard Wanner (1993). [Solving Ordinary 
 
 Hairer, Ernst, and Gerhard Wanner (1996). [Solving Ordinary Differential Equations II: Stiff and Differential-Algebraic Problems](https://www.springer.com/gp/book/9783540604525). Springer. code at Hairer’s [site](http://www.unige.ch/~hairer/software.html)
 
+Harrison, Howard B. (1973). [Computer methods in structural analysis](https://trid.trb.org/view/135613). Prentice-Hall
+
+Harrison, Howard B. (1990). [Structural Analysis and Design: Some Microcomputer Applications, 2nd. ed.](https://www.amazon.com/Structural-Analysis-Design-Microcomputer-Applications/dp/0080375219). Pergamon
+
 Hartigan, J. A. (1975). [Clustering Algorithms](https://www.amazon.com/exec/obidos/ASIN/047135645X/acmorg-20/fortran-wiki-20). Wiley. Code in the [Cluster](https://orion.math.iastate.edu/docs/cmlib/cluster.html) section of CMLIB.
 
 Hinton, E, and D. Owen (1979). [Finite Element Programming](https://www.elsevier.com/books/finite-element-programming/hinton/978-0-08-091871-6). Academic Press
