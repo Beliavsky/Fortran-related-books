@@ -163,6 +163,8 @@ Gill, Philip E., Walter Murray, Margaret H. Wright (1981). [Practical Optimizati
 
 Giordano, Nicholas J., and Hisao Nakanishi (2005). [Computational Physics](http://www.physics.purdue.edu/~hisao/book/). Prentice-Hall
 
+Goedecker, Stefan, and Adolfy Hoisie (2001). [Performance Optimization of Numerically Intensive Codes](https://epubs.siam.org/doi/book/10.1137/1.9780898718218). SIAM. Codes [here](https://archive.siam.org/books/set12/).
+
 Golub, Gene, and Charles Van Loan (2013). [Matrix Computations, 4th ed.](https://www.amazon.com/Computations-Hopkins-Studies-Mathematical-Sciences/dp/1421407949/fortran-wiki-20). Johns Hopkins
 
 Gonin, Rene, and Arthur H. Money (1989). [Nonlinear Lp-Norm Estimation](https://www.routledge.com/Nonlinear-Lp-Norm-Estimation/Gonin/p/book/9780367451165). CRC
