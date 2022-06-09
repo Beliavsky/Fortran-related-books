@@ -199,7 +199,9 @@ Harrison, Howard B. (1990). [Structural Analysis and Design: Some Microcomputer 
 
 Hartigan, J. A. (1975). [Clustering Algorithms](https://www.amazon.com/exec/obidos/ASIN/047135645X/acmorg-20/fortran-wiki-20). Wiley. Code in the [Cluster](https://orion.math.iastate.edu/docs/cmlib/cluster.html) section of CMLIB.
 
-Hinton, E, and D. Owen (1979). [Finite Element Programming](https://www.elsevier.com/books/finite-element-programming/hinton/978-0-08-091871-6). Academic Press
+Helffrich, George, James Wookey, and Ian Bastow (2013). [The Seismic Analysis Code: A Primer and User's Guide](https://www.cambridge.org/us/academic/subjects/earth-and-environmental-science/solid-earth-geophysics/seismic-analysis-code-primer-and-users-guide). Cambridge. Code [here](https://github.com/ghfbsd/sacbook) and manual [here](http://www.adc1.iris.edu/files/sac-manual/sac_manual.pdf).
+
+Hinton, E., and D. Owen (1979). [Finite Element Programming](https://www.elsevier.com/books/finite-element-programming/hinton/978-0-08-091871-6). Academic Press
 
 Hjorth-Jensen, Morton (2008). [Computational Physics](https://www.uio.no/studier/emner/matnat/fys/FYS3150/h08/undervisningsmateriale/Lecture%20Notes/lecture2008.pdf).
 
