@@ -89,6 +89,8 @@ Cullum, Jane K. and Ralph A. Willoughby (1985) [Lanczos Algorithms for Large Sym
 
 Curcic, Milan (2020) [Modern Fortran.  Building efficient parallel applications](https://www.manning.com/books/modern-fortran).  Manning.  Source code at the publishers and [GitHub](https://github.com/modern-fortran).
 
+Curcic, Milan (2020) [Exploring Modern Fortran Basics](https://www.manning.com/books/exploring-modern-fortran-basics). Manning.
+
 Curotto, Emanuele (2009). [Stochastic Simulations of Clusters: Quantum Methods in Flat and Curved Spaces](https://www.routledge.com/Stochastic-Simulations-of-Clusters-Quantum-Methods-in-Flat-and-Curved-Spaces/Curotto/p/book/9781420082258). CRC
 
 Dagpunar, John (1988). [Principles of Random Variate Generation](https://www.amazon.com/Principles-Random-Variate-Generation-Dagpunar/dp/0198522029/fortran-wiki-20). Oxford University Press. Related Fortran 90 [code](https://jblevins.org/mirror/amiller/random.f90) from Alan Miller.
