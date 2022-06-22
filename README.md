@@ -87,6 +87,8 @@ Crawley, Stanley W., and Robert M. Dillon (1993) [Steel Buildings: Analysis and 
 
 Cullum, Jane K. and Ralph A. Willoughby (1985) [Lanczos Algorithms for Large Symmetric Eigenvalue Computations: Vol. I: Theory](https://epubs.siam.org/doi/book/10.1137/1.9780898719192). Birkhauser. Code and text of 2nd volume at [Netlib](http://www.netlib.org/lanczos/)
 
+Curcic, Milan (2020) [Modern Fortran.  Building efficient parallel applications](https://www.manning.com/books/modern-fortran).  Manning.  Source code at the publishers and [GitHub](https://github.com/modern-fortran).
+
 Curotto, Emanuele (2009). [Stochastic Simulations of Clusters: Quantum Methods in Flat and Curved Spaces](https://www.routledge.com/Stochastic-Simulations-of-Clusters-Quantum-Methods-in-Flat-and-Curved-Spaces/Curotto/p/book/9781420082258). CRC
 
 Dagpunar, John (1988). [Principles of Random Variate Generation](https://www.amazon.com/Principles-Random-Variate-Generation-Dagpunar/dp/0198522029/fortran-wiki-20). Oxford University Press. Related Fortran 90 [code](https://jblevins.org/mirror/amiller/random.f90) from Alan Miller.
