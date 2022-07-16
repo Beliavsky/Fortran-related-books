@@ -153,6 +153,8 @@ Forsythe, George E., Michael A. Malcolm, and Cleve B. Moler (1977). [Computer Me
 
 Francq, Christian and Jean‐Michel Zakoian (2019). [GARCH Models: Structure, Statistical Inference and Financial Applications, 2nd. ed.](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119313472). Wiley. Code at Francq’s [site](http://christian.francq140.free.fr/Christian-Francq/GARCH-Models/Identification/portmanteau.html)
 
+Frenkel, Daan, and Berend Smit (2002). [Understanding Molecular Simulation: From Algorithms to Applications, 2nd. ed.](https://www.sciencedirect.com/book/9780122673511/understanding-molecular-simulation)
+
 Fuller, W. R. (1977). [FORTRAN Programming: A Supplement for Calculus Courses](https://www.springer.com/gp/book/9780387902838). Springer
 
 Garcia, Alejandro L. (1994). [Numerical Methods for Physics](http://www.algarcia.org/nummeth/nummeth.html). Prentice Hall
