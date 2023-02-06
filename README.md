@@ -468,6 +468,8 @@ Weiland, Claus (2010). [Computational Space Flight Mechanics](https://www.spring
 
 White, Robert E. (2016). [Computational Mathematics Models, Methods, and Analysis with MATLAB® and MPI, 2nd ed.](https://www.routledge.com/Computational-Mathematics-Models-Methods-and-Analysis-with-MATLAB-and/White/p/book/9781482235159). CRC
 
+Wright, E. Alaphia (1990). [Open Pit Mine Design Models: Introduction With Fortran 77 Programs](https://www.abebooks.com/servlet/BookDetailsPL?bi=21948034304). Trans Tech Publications
+
 Yanushevsky, Rafael (2019). [Modern Missile Guidance, 2nd ed.](https://www.routledge.com/Modern-Missile-Guidance/Yanushevsky/p/book/9780815384861). CRC
 
 Zienkiewicz, O.C., R. L. Taylor, and J.Z. Zhu (2013). [The Finite Element Method: Its Basis and Fundamentals
