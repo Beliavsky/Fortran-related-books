@@ -73,6 +73,8 @@ Chapman, Barbara *et al.* (2007). [Using OpenMP - Portable Shared Memory Paralle
 
 Cheney, Ward and David Kincaid (2012). [Numerical Mathematics and Computing, 7th ed.](https://web.ma.utexas.edu/CNA/NMC7/). Brooks/Cole: Cengage Learning
 
+Ching, Wai-Yim, and Paul Rulis (2012). [Electronic Structure Methods for Complex Materials: The orthogonalized linear combination of atomic orbitals](https://academic.oup.com/book/34699). Oxford University Press
+
 Chung, T. J. (2010). [Computational Fluid Dynamics, 2nd ed.](https://www.cambridge.org/ar/academic/subjects/engineering/thermal-fluids-engineering/computational-fluid-dynamics-2nd-edition?format=HB&isbn=9780521769693). Cambridge University Press
 
 Clerman, Norman S. and Spector, Walter (2011). [Modern Fortran - Style and Usage](http://fortranwiki.org/fortran/show/Modern+Fortran+-+Style+and+Usage). Cambridge University Press. [reviewed](https://www.jstatsoft.org/article/view/v047b01) in the Journal of Statistical Software
