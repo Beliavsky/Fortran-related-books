@@ -20,6 +20,7 @@
 # + awk
 # + bash
 # + cat
+# + fmt
 # + rm
 # + sort
 #
@@ -47,6 +48,11 @@ awk 'BEGIN {year=9999}; \
 # join original header and reorganized timeline
 awk 'NR <= 3 {print}' "$1" > Fortran_timeline.md
 cat tmp03 >> Fortran_timeline.md
+
+# remove overly long lines
+fmt -w 80 ./Fortran_timeline.md > tmp04
+mv ./tmp04 Fortran_timeline.md
+
 
 # space cleaning
 rm tmp01 tmp02 tmp03
