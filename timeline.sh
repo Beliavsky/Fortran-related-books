@@ -41,8 +41,8 @@ sort -k 1 -nr tmp01 > tmp02
 
 # group the entries per year of publication
 awk 'BEGIN {year=9999}; \
-    $1 != year {year = $1; print "#", year, "\n"}; \
-    $1 == year {$1=""; print $0, "\n"}' tmp02 > tmp03
+    $1 != year {year = $1; print "##", year"\n"}; \
+    $1 == year {$1=""; print $0"\n"}' tmp02 > tmp03
 
 # join original header and reorganized timeline
 awk 'NR <= 3 {print}' "$1" > Fortran_timeline.md
