@@ -229,6 +229,8 @@ Jeppson, Roland W. Jeppson (1976). [Analysis of Flow in Pipe Networks](https://w
 
 Jones, Russell K., and Tracy Crabtree (1988). [FORTRAN Tools for VAX/VMS and MS-DOS](https://www.amazon.com/FORTRAN-Tools-VAX-VMS-MS-DOS/dp/0471619760/fortran-wiki-20). Wiley
 
+Koenker, Roger (2005). [Quantile Regression](https://www.cambridge.org/core/books/quantile-regression/C18AE7BCF3EC43C16937390D44A328B1). Code [here](https://github.com/cran/quantreg).
+
 Law, Averill M., and W. David Kelton (1999). [Simulation Modeling and Analysis, 3rd. ed](https://www.amazon.com/Simulation-Modeling-Industrial-Engineering-Management/dp/0070592926). McGraw-Hill
 
 Kagiwada, Harriet, Robert Kalaba, Nima Rasakhoo, and Karl Spingarn (1986). [Numerical Derivatives and Nonlinear Analysis](https://www.springer.com/us/book/9781468450583). Springer
