@@ -69,6 +69,8 @@ Britz, Dieter, and Jörg Strutwolf (2016). [Digital Simulation in Electrochemist
 
 Burden, Richard, L., J. Douglas Faires and Annette M. Burden (2016). [Numerical Analysis, 10th ed.](https://www.cengage.com/c/numerical-analysis-10e-burden/9781305253667PF/). Cengage. FORTRAN 77 code [here](https://sites.google.com/site/numericalanalysis1burden/home)
 
+Burkard, Rainer E., and Ulrich Derigs (1980). [Assignment and Matching Problems: Solution Methods with FORTRAN-Programs](https://link.springer.com/book/10.1007/978-3-642-51576-7). Springer. Code [here](https://people.sc.fsu.edu/~jburkardt/f77_src/lamp/lamp.html)
+
 Chandra, Rohit, Ramesh Menon, Leo Dagum, David Kohr, Dror Maydan, and Jeff McDonald (2000). [Parallel Programming in OpenMP](https://www.elsevier.com/books/parallel-programming-in-openmp/chandra/978-1-55860-671-5). Morgan Kaufmann
 
 Chapman, Barbara *et al.* (2007). [Using OpenMP - Portable Shared Memory Parallel Programming](http://fortranwiki.org/fortran/show/Using+OpenMP+-+Portable+Shared+Memory+Parallel+Programming). MIT Press.
