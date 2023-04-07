@@ -1,7 +1,7 @@
 # Fortran-related books
 Books with Fortran code, other than Fortran textbooks. This branched from the Related Books section of the [Fortran Wiki](http://fortranwiki.org/fortran/show/Books). If you have a book suggestion or if the code of a book is available but not linked here, please create an issue.
 
-Aarseth, Sverre J (2009). [Gravitational N-Body Simulations: Tools and Algorithms](https://www.cambridge.org/us/academic/subjects/physics/astrophysics/gravitational-n-body-simulations-tools-and-algorithms). Cambridge Univerity Press. Code [here](https://people.ast.cam.ac.uk/~sverre/web/pages/nbody.htm), and a descendent is [Nbody6++GPU](https://github.com/nbody6ppgpu/Nbody6PPGPU-beijing)
+Aarseth, Sverre J (2009). [Gravitational N-Body Simulations: Tools and Algorithms](https://www.cambridge.org/us/academic/subjects/physics/astrophysics/gravitational-n-body-simulations-tools-and-algorithms). Cambridge Univerity Press. Code [here](https://people.ast.cam.ac.uk/~sverre/web/pages/nbody.htm), and a descendant is [Nbody6++GPU](https://github.com/nbody6ppgpu/Nbody6PPGPU-beijing)
 
 Akaike, Hirotsugu (1975). [TIMSAC-74, a time series analysis and control program package](https://www.amazon.com/TIMSAC-74-analysis-control-Computer-monographs/dp/B0007B3OIW/fortran-wiki-20). Institute of Statistical Mathematics. R package [timsac: Time Series Analysis and Control](https://cran.r-project.org/web/packages/timsac/index.html) has Fortran code.
 
