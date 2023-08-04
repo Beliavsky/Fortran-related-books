@@ -477,6 +477,8 @@ Wesseling, Pieter (1992). [An Introduction to Multigrid Methods](https://www.ama
 
 Weiland, Claus (2010). [Computational Space Flight Mechanics](https://www.springer.com/us/book/9783642135828). Springer
 
+White, Robert E. (1985). [An Introduction to the Finite Element Method with Applications to Nonlinear Problems 1st Ed.](https://www.amazon.com/Introduction-Element-Applications-Nonlinear-Problems/dp/0471809098). Wiley
+
 White, Robert E. (2016). [Computational Mathematics Models, Methods, and Analysis with MATLAB® and MPI, 2nd ed.](https://www.routledge.com/Computational-Mathematics-Models-Methods-and-Analysis-with-MATLAB-and/White/p/book/9781482235159). CRC
 
 Wright, E. Alaphia (1990). [Open Pit Mine Design Models: Introduction With Fortran 77 Programs](https://www.abebooks.com/servlet/BookDetailsPL?bi=21948034304). Trans Tech Publications
