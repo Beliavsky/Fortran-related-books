@@ -35,6 +35,9 @@ Beer, Gernot, Ian Smith, and Christian Duenser (2008). [The Boundary Element Met
 
 Beer, Gernot (2001). [Programming the Boundary Element Method: An Introduction for Engineers](https://www.wiley.com/en-us/Programming+the+Boundary+Element+Method%3A+An+Introduction+for+Engineers-p-9780471863335). Wiley
 
+Belytschko, Ted, Wing Kam Liu, Brian Moran and Khalil Elkhodary (2013). [Nonlinear Finite Elements for Continua and Structures, 2nd Edition](https://www.wiley.com//legacy/wileychi/belytschko_nonlinear/). Wiley
+
+
 Berg, Bernd A (2004). [Markov Chain Monte Carlo Simulations and Their Statistical Analysis – With Web-Based Fortran Code](https://www.worldscientific.com/worldscibooks/10.1142/5602). World Scientific
 
 Bestehorn, Michael (2018). [Computational Physics With Worked Out Examples in FORTRAN and MATLAB](https://www.degruyter.com/document/doi/10.1515/9783110515145/html). De Gruyter
