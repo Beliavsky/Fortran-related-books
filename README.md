@@ -238,7 +238,7 @@ Jones, Russell K., and Tracy Crabtree (1988). [FORTRAN Tools for VAX/VMS and MS-
 
 Koenker, Roger (2005). [Quantile Regression](https://www.cambridge.org/core/books/quantile-regression/C18AE7BCF3EC43C16937390D44A328B1). Code [here](https://github.com/cran/quantreg).
 
-Knuth, Donald E. (1997). [Seminumerical Algorithms, 3rd ed.](https://www-cs-faculty.stanford.edu/~knuth/taocp.html). Code [here](https://www-cs-faculty.stanford.edu/~knuth/programs.html)
+Knuth, Donald E. (1997). [Seminumerical Algorithms, 3rd ed.](https://www-cs-faculty.stanford.edu/~knuth/taocp.html) Code [here](https://www-cs-faculty.stanford.edu/~knuth/programs.html)
 
 Law, Averill M., and W. David Kelton (1999). [Simulation Modeling and Analysis, 3rd. ed](https://www.amazon.com/Simulation-Modeling-Industrial-Engineering-Management/dp/0070592926). McGraw-Hill
 
