@@ -74,6 +74,8 @@ Burden, Richard, L., J. Douglas Faires and Annette M. Burden (2016). [Numerical 
 
 Burkard, Rainer E., and Ulrich Derigs (1980). [Assignment and Matching Problems: Solution Methods with FORTRAN-Programs](https://link.springer.com/book/10.1007/978-3-642-51576-7). Springer. Code [here](https://people.sc.fsu.edu/~jburkardt/f77_src/lamp/lamp.html)
 
+Castellanos, Kenneth, Andrew Feltenstein,  and Gohar Sedrakyan (2024). [Computable General Equilibrium Modeling: Theory and Applications](https://www.routledge.com/Computable-General-Equilibrium-Modeling-Theory-and-Applications/Castellanos-Feltenstein-Sedrakyan/p/book/9780367272050). Routledge
+
 Chandra, Rohit, Ramesh Menon, Leo Dagum, David Kohr, Dror Maydan, and Jeff McDonald (2000). [Parallel Programming in OpenMP](https://www.elsevier.com/books/parallel-programming-in-openmp/chandra/978-1-55860-671-5). Morgan Kaufmann
 
 Chapman, Barbara *et al.* (2007). [Using OpenMP - Portable Shared Memory Parallel Programming](http://fortranwiki.org/fortran/show/Using+OpenMP+-+Portable+Shared+Memory+Parallel+Programming). MIT Press.
