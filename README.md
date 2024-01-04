@@ -321,6 +321,8 @@ Neder, Reinhard B., and Thomas Proffen (2009). [Diffuse Scattering and Defect St
 
 Newton, H. Joseph (1988). [Timeslab: A Time Series Analysis Laboratory](https://www.amazon.com/Timeslab-Laboratory-Diskettes-Statistics-Probability/dp/0534091989/fortran-wiki-20). Wadsworth & Brook/Cole. Timeslab code at author’s [site](https://web.stat.tamu.edu/~jnewton/)
 
+Ng, Shu Kay, Liming Xiang, and Kelvin Kai Wing Yau (2019). [Mixture Modelling for Medical and Health Sciences](https://www.routledge.com/Mixture-Modelling-for-Medical-and-Health-Sciences/Ng-Xiang-Yau/p/book/9780367729332). CRC Press.
+
 Nguyen, Duc Thai (2002). [Parallel-Vector Equation Solvers for Finite Element Engineering Applications](https://www.springer.com/us/book/9780306466403). Springer
 
 Nijenhuis, Albert, and Herbert S. Wilf (1978). [Combinatorial Algorithms
