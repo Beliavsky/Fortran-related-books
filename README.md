@@ -37,7 +37,6 @@ Beer, Gernot (2001). [Programming the Boundary Element Method: An Introduction f
 
 Belytschko, Ted, Wing Kam Liu, Brian Moran and Khalil Elkhodary (2013). [Nonlinear Finite Elements for Continua and Structures, 2nd Edition](https://www.wiley.com//legacy/wileychi/belytschko_nonlinear/). Wiley
 
-
 Berg, Bernd A (2004). [Markov Chain Monte Carlo Simulations and Their Statistical Analysis – With Web-Based Fortran Code](https://www.worldscientific.com/worldscibooks/10.1142/5602). World Scientific
 
 Bestehorn, Michael (2018). [Computational Physics With Worked Out Examples in FORTRAN and MATLAB](https://www.degruyter.com/document/doi/10.1515/9783110515145/html). De Gruyter
@@ -211,6 +210,8 @@ Harrison, Howard B. (1973). [Computer methods in structural analysis](https://tr
 Harrison, Howard B. (1990). [Structural Analysis and Design: Some Microcomputer Applications, 2nd. ed.](https://www.amazon.com/Structural-Analysis-Design-Microcomputer-Applications/dp/0080375219). Pergamon
 
 Hartigan, J. A. (1975). [Clustering Algorithms](https://www.amazon.com/exec/obidos/ASIN/047135645X/acmorg-20/fortran-wiki-20). Wiley. Code in the [Cluster](https://orion.math.iastate.edu/docs/cmlib/cluster.html) section of CMLIB.
+
+Heer, Burkhard and Alfred Maussner (2009). [Dynamic General Equilibrium Modelling, Computational Methods and Applications](https://link.springer.com/book/10.1007/978-3-540-85685-6). Springer. Code [here](https://www.uni-augsburg.de/de/fakultaet/wiwi/prof/vwl/maussner/dgebook/).
 
 Helffrich, George, James Wookey, and Ian Bastow (2013). [The Seismic Analysis Code: A Primer and User's Guide](https://www.cambridge.org/us/academic/subjects/earth-and-environmental-science/solid-earth-geophysics/seismic-analysis-code-primer-and-users-guide). Cambridge. Code [here](https://github.com/ghfbsd/sacbook) and manual [here](http://www.adc1.iris.edu/files/sac-manual/sac_manual.pdf).
 
