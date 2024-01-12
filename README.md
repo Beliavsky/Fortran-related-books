@@ -41,6 +41,8 @@ Berg, Bernd A (2004). [Markov Chain Monte Carlo Simulations and Their Statistica
 
 Bertsekas, Dimitri P. (1991) [Linear Network Optimization: Algorithms and Codes](https://web.mit.edu/dimitrib/www/LNets_Full_Book.pdf). MIT Press. Code [here](https://web.mit.edu/dimitrib/www/lopnet.txt)
 
+Bertsekas, Dimitri P. (1998) [Network Optimization: Continuous and Discrete Models](http://www.athenasc.com/netbook.html) Athena Scientific
+
 Bestehorn, Michael (2018). [Computational Physics With Worked Out Examples in FORTRAN and MATLAB](https://www.degruyter.com/document/doi/10.1515/9783110515145/html). De Gruyter
 
 Bhatt, Prab (2003). [Programming the Dynamic Analysis of Structures](https://www.routledge.com/Programming-the-Dynamic-Analysis-of-Structures/Bhatt/p/book/9780367863494). CRC
