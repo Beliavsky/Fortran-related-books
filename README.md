@@ -235,6 +235,8 @@ Itkin, A. L., and E. G. Kolesnichenko (1997). [Microscopic Theory of Condensatio
 
 Izaac, Joshua, and Jingbo Wang (2018). [Computational Quantum Mechanics](https://www.springer.com/gp/book/9783319999296). Springer
 
+Lee, H. J., and W. E. Schiesser (2004), [Ordinary and Partial Differential Equation Routines in C, C++, Fortran, Java, Maple and Matlab](https://www.taylorfrancis.com/books/mono/10.1201/9780203010518/ordinary-partial-differential-equation-routines-fortran-java-maple-matlab-lee-schiesser). CRC. Code [here](https://www.lehigh.edu/~wes1/books/ode_pde/).
+
 Javanbakht, Zia, and Andreas Öchsner (2017). [Advanced Finite Element Simulation with MSC Marc: Application of User Subroutines](https://www.springer.com/us/book/9783319476674). Springer
 
 Jeppson, Roland W. Jeppson (1976). [Analysis of Flow in Pipe Networks](https://www.amazon.com/Analysis-Flow-Networks-Roland-Jeppson/dp/0250401193/fortran-wiki-20). Butterworth-Heinemann. Modernization of codes discussed in [Recovery of Jeppson Pipe Network Analysis Software](http://www.acorvid.com/wp-content/uploads/2018/03/wp-20180307-jeppson-1.pdf) by Bob Apthorpe
