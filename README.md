@@ -402,6 +402,8 @@ Schattke, Wolfgang, and Ricardo Díez Muiño (2013).[Quantum Monte-Carlo Program
 
 Schiesser, W. E., and C. A. Silebi (1997). [Computational Transport Phenomena: Numerical Methods for the Solution of Transport Problems](https://www.cambridge.org/us/academic/subjects/engineering/chemical-engineering/computational-transport-phenomena-numerical-methods-solution-transport-problems). Cambridge University Press
 
+Schiesser, W. E. (1993). [Computational Mathematics in Engineering and Applied Science: ODEs, DAEs, and PDEs](https://www.routledge.com/Computational-Mathematics-in-Engineering-and-Applied-Science-ODEs-DAEs/Schiesser/p/book/9780849373732). CRC. Code [here](https://www.lehigh.edu/~wes1/books/comp_math/README.1ST).
+
 Schiesser, W. E. (1991). [The Numerical Method of Lines: Integration of Partial Differential Equations 1st ed.](https://www.amazon.com/Numerical-Method-Lines-Integration-Differential/dp/0126241309). Academic Press
 
 Schittkowski, Klaus (2002). [Numerical Data Fitting in Dynamical Systems - A Practical Introduction with Applications and Software](http://klaus-schittkowski.de/dyn_sys_book.htm). Kluwer
