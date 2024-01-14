@@ -402,7 +402,7 @@ Santner, Thomas J., Brian J. Williams, and William I. Notz (2003). [The Design a
 
 Schattke, Wolfgang, and Ricardo Díez Muiño (2013).[Quantum Monte-Carlo Programming: For Atoms, Molecules, Clusters, and Solids](https://www.wiley.com/en-us/Quantum+Monte+Carlo+Programming%3A+For+Atoms%2C+Molecules%2C+Clusters%2C+and+Solids-p-9783527675326). Wiley.
 
-Schiesser, W. E., and C. A. Silebi (1997). [Computational Transport Phenomena: Numerical Methods for the Solution of Transport Problems](https://www.cambridge.org/us/academic/subjects/engineering/chemical-engineering/computational-transport-phenomena-numerical-methods-solution-transport-problems). Cambridge University Press
+Schiesser, W. E., and C. A. Silebi (1997). [Computational Transport Phenomena: Numerical Methods for the Solution of Transport Problems](https://www.cambridge.org/us/academic/subjects/engineering/chemical-engineering/computational-transport-phenomena-numerical-methods-solution-transport-problems). Cambridge University Press. Code [here](https://www.lehigh.edu/~wes1/books/ctp/).
 
 Schiesser, W. E. (1993). [Computational Mathematics in Engineering and Applied Science: ODEs, DAEs, and PDEs](https://www.routledge.com/Computational-Mathematics-in-Engineering-and-Applied-Science-ODEs-DAEs/Schiesser/p/book/9780849373732). CRC. Code [here](https://www.lehigh.edu/~wes1/books/comp_math/README.1ST).
 
