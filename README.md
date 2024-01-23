@@ -195,7 +195,9 @@ Griffiths, P., and Ian D. Hill (1985). [Applied Statistics Algorithms](https://w
 
 Griffiths, D. Vaughan, and I.M. Smith (2006). [Numerical Methods for Engineers, 2nd ed.](https://www.routledge.com/Numerical-Methods-for-Engineers/Griffiths-Smith/p/book/9780367390662). CRC. Code at Griffiths’ [site](http://inside.mines.edu/~vgriffit/)
 
-Gropp W., Lusk, E. and Skjellum, A. (1999). [Using MPI - Portable Parallel Programming with the Message Passing Interface](http://fortranwiki.org/fortran/show/Using+MPI+-+Portable+Parallel+Programming+with+the+Message+Passing+Interface). The MIT Press.
+Gropp, William, Torsten Hoefler, Rajeev Thakur and Ewing Lusk (2014). [Using Advanced MPI: Modern Features of the Message-Passing Interface](https://wgropp.cs.illinois.edu/usingmpiweb/). MIT Press.
+
+Gropp,  William, Lusk, E. and Skjellum, A. (1999). [Using MPI - Portable Parallel Programming with the Message Passing Interface](http://fortranwiki.org/fortran/show/Using+MPI+-+Portable+Parallel+Programming+with+the+Message+Passing+Interface). The MIT Press.
 
 Gu, Chong (2013). [Smoothing Spline ANOVA Models, 2nd ed.](https://www.stat.purdue.edu/~chong/book/). Springer
 
