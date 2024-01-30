@@ -494,13 +494,13 @@ Wesseling, Pieter (1992). [An Introduction to Multigrid Methods](https://www.ama
 
 Weiland, Claus (2010). [Computational Space Flight Mechanics](https://www.springer.com/us/book/9783642135828). Springer
 
-Wolfe, Carvel S. (1985). [Linear Programming with BASIC and FORTRAN](https://books.google.com/books/about/Linear_Programming_with_BASIC_and_FORTRA.html?id=vZ0-AQAAIAAJ). Reston Publishing Company
-
-Wolfe, Carvel S. (1973). [Linear programming with Fortran](https://www.amazon.com/Linear-programming-Fortran-Carvel-Wolfe/dp/0673077977). Pearson Scott Foresman
-
 White, Robert E. (1985). [An Introduction to the Finite Element Method with Applications to Nonlinear Problems 1st Ed.](https://www.amazon.com/Introduction-Element-Applications-Nonlinear-Problems/dp/0471809098). Wiley
 
 White, Robert E. (2016). [Computational Mathematics Models, Methods, and Analysis with MATLAB® and MPI, 2nd ed.](https://www.routledge.com/Computational-Mathematics-Models-Methods-and-Analysis-with-MATLAB-and/White/p/book/9781482235159). CRC
+
+Wolfe, Carvel S. (1985). [Linear Programming with BASIC and FORTRAN](https://books.google.com/books/about/Linear_Programming_with_BASIC_and_FORTRA.html?id=vZ0-AQAAIAAJ). Reston Publishing Company
+
+Wolfe, Carvel S. (1973). [Linear programming with Fortran](https://www.amazon.com/Linear-programming-Fortran-Carvel-Wolfe/dp/0673077977). Pearson Scott Foresman
 
 Wright, E. Alaphia (1990). [Open Pit Mine Design Models: Introduction With Fortran 77 Programs](https://www.abebooks.com/servlet/BookDetailsPL?bi=21948034304). Trans Tech Publications
 
