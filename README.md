@@ -63,7 +63,7 @@ Boor, Carl de (1978). [A Practical Guide to Splines](https://www.springer.com/gp
 
 Bose, Sujit Kumar (2019). [Numerical Methods of Mathematics Implemented in Fortran](https://www.springer.com/gp/book/9789811371134). Springer. reviewed [here](https://www.maa.org/press/maa-reviews/numerical-methods-of-mathematics-implemented-in-fortran)
 
-Bowyer, Adrian, and John Woodwark (1983).[A Programmer's Geometry](https://www.biblio.com/a-programmers-geometry-by-adrian-bowyer-john-woodwark/work/1845106). Butterworths
+Bowyer, Adrian, and John Woodwark (1983). [A Programmer's Geometry](https://www.biblio.com/a-programmers-geometry-by-adrian-bowyer-john-woodwark/work/1845106). Butterworths
 
 Boyd, John P. (2001). [Chebyshev and Fourier Spectral Methods](https://store.doverpublications.com/0486411834.html). Dover. Modified code [here](https://gist.github.com/ivan-pi/1b476dabd11b651fc2ea6e4fd0c11289)
 
@@ -493,6 +493,10 @@ Wellek, Stefan (2010). [Testing Statistical Hypotheses of Equivalence and Noninf
 Wesseling, Pieter (1992). [An Introduction to Multigrid Methods](https://www.amazon.com/Pieter-Wesseling-Introduction-Multigrid-Methods/dp/B008UBETYE/fortran-wiki-20). Wiley. Code by Wesseling [here](http://www.mgnet.org/mgnet-codes.html)
 
 Weiland, Claus (2010). [Computational Space Flight Mechanics](https://www.springer.com/us/book/9783642135828). Springer
+
+Wolfe, Carvel S. (1985). [Linear Programming with BASIC and FORTRAN](https://books.google.com/books/about/Linear_Programming_with_BASIC_and_FORTRA.html?id=vZ0-AQAAIAAJ). Reston Publishing Company
+
+Wolfe, Carvel S. (1973). [Linear programming with Fortran](https://www.amazon.com/Linear-programming-Fortran-Carvel-Wolfe/dp/0673077977). Pearson Scott Foresman
 
 White, Robert E. (1985). [An Introduction to the Finite Element Method with Applications to Nonlinear Problems 1st Ed.](https://www.amazon.com/Introduction-Element-Applications-Nonlinear-Problems/dp/0471809098). Wiley
 
