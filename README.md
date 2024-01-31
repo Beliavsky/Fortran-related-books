@@ -173,6 +173,8 @@ Fuller, W. R. (1977). [FORTRAN Programming: A Supplement for Calculus Courses](h
 
 Garcia, Alejandro L. (1994). [Numerical Methods for Physics](http://www.algarcia.org/nummeth/nummeth.html). Prentice Hall
 
+Genz, Alan, and Frank Bretz (2009). [Computation of Multivariate Normal and t Probabilities](https://link.springer.com/book/10.1007/978-3-642-01689-9). Springer. Code [here](https://www.math.wsu.edu/faculty/genz/software/software.html) and [here](https://econ.lse.ac.uk/staff/vassilis/emetrsoft/nrpsimf/)
+
 Gibbs, B. P. (2011). [Advanced Kalman Filtering, Least-Squares, and Modeling, A Practical Handbook](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470890042). Wiley. The software is included in a single zip file (Gibbs_Software_1_2.zip) located at web site ftp://ftp.wiley.com/public/sci_tech_med/least_squares/
 
 Gill, Philip E., Walter Murray, Margaret H. Wright (1981). [Practical Optimization](https://my.siam.org/Store/Product/viewproduct/?ProductId=31205265). Academic Press
