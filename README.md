@@ -81,6 +81,8 @@ Castellanos, Kenneth, Andrew Feltenstein,  and Gohar Sedrakyan (2024). [Computab
 
 Chandra, Rohit, Ramesh Menon, Leo Dagum, David Kohr, Dror Maydan, and Jeff McDonald (2000). [Parallel Programming in OpenMP](https://www.elsevier.com/books/parallel-programming-in-openmp/chandra/978-1-55860-671-5). Morgan Kaufmann
 
+Chandrasekaran, Sunita, and Guido Juckeland (2017). [OpenACC for Programmers: Concepts and Strategies](https://www.informit.com/store/openacc-for-programmers-concepts-and-strategies-9780134694283). Addison-Wesley. Code [here](https://github.com/OpenACCUserGroup/openacc_concept_strategies_book).
+
 Chapman, Barbara *et al.* (2007). [Using OpenMP - Portable Shared Memory Parallel Programming](http://fortranwiki.org/fortran/show/Using+OpenMP+-+Portable+Shared+Memory+Parallel+Programming). MIT Press.
 
 Cheney, Ward and David Kincaid (2012). [Numerical Mathematics and Computing, 7th ed.](https://web.ma.utexas.edu/CNA/NMC7/). Brooks/Cole: Cengage Learning
