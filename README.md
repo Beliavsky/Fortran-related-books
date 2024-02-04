@@ -69,7 +69,7 @@ Boyd, John P. (2001). [Chebyshev and Fourier Spectral Methods](https://store.dov
 
 Brandt, Siegmund (1999). [Data Analysis: Statistical and Computational Methods for Scientists and Engineers](https://www.springer.com/gp/book/9780387984988). Springer
 
-Brent, Richard (1973). [Algorithms for Minimization without Derivatives](https://maths-people.anu.edu.au/~brent/pub/pub011.html). Prentice-Hall. Code by John Burkardt [here](https://people.math.sc.edu/Burkardt/f_src/brent/brent.html).
+Brent, Richard (1973). [Algorithms for Minimization without Derivatives](https://maths-people.anu.edu.au/~brent/pub/pub011.html). Prentice-Hall, reprinted by [Dover](https://store.doverpublications.com/0486419983.html) in 2002. Code by John Burkardt [here](https://people.math.sc.edu/Burkardt/f_src/brent/brent.html).
 
 Britz, Dieter, and Jörg Strutwolf (2016). [Digital Simulation in Electrochemistry](https://www.springer.com/us/book/9783319302904). Springer. Appendix E describes a number of example programs in Fortran.
 
