@@ -71,6 +71,8 @@ Brandt, Siegmund (1999). [Data Analysis: Statistical and Computational Methods f
 
 Brent, Richard (1973). [Algorithms for Minimization without Derivatives](https://maths-people.anu.edu.au/~brent/pub/pub011.html). Prentice-Hall, reprinted by [Dover](https://store.doverpublications.com/0486419983.html) in 2002. Code by John Burkardt [here](https://people.math.sc.edu/Burkardt/f_src/brent/brent.html).
 
+Bretthorst, G. Larry (1988), [Bayesian Spectrum Analysis and Parameter Estimation](https://bayes.wustl.edu/glb/book.pdf). Springer. Code is in Appendix E.
+
 Britz, Dieter, and Jörg Strutwolf (2016). [Digital Simulation in Electrochemistry](https://www.springer.com/us/book/9783319302904). Springer. Appendix E describes a number of example programs in Fortran.
 
 Burden, Richard, L., J. Douglas Faires and Annette M. Burden (2016). [Numerical Analysis, 10th ed.](https://www.cengage.com/c/numerical-analysis-10e-burden/9781305253667PF/). Cengage. FORTRAN 77 code [here](https://sites.google.com/site/numericalanalysis1burden/home)
