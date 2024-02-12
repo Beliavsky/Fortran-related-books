@@ -133,6 +133,8 @@ Devroye, Luc (1986). [Non-Uniform Random Variate Generation](http://luc.devroye.
 
 Dhatt, Gouri, and Gilbert Touzot (1984). [The Finite Element Method Displayed](https://www.amazon.com/Finite-Element-Method-Displayed/dp/0471901105). Wiley. Code at [GitHub](https://github.com/freevryheid/FEM/tree/master/DT)
 
+Dhondt, Guido (2004). [The Finite Element Method for Three‐Dimensional Thermomechanical Applications](https://onlinelibrary.wiley.com/doi/book/10.1002/0470021217). Wiley. Accompanied by finite element software [CalculiX](http://www.calculix.de/).
+
 Dierckx, Paul (1993). [Curve and Surface Fitting with Splines](https://global.oup.com/academic/product/curve-and-surface-fitting-with-splines-9780198534402). Oxford. code [here](http://www.netlib.org/dierckx/)
 
 Engeln-Müllges, Gisela and Uhlig, Frank (2013). [Numerical Algorithms with Fortran](http://fortranwiki.org/fortran/show/Numerical+Algorithms+with+Fortran). Springer.
