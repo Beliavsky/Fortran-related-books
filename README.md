@@ -121,7 +121,7 @@ De Gooijer, Jan G. (2017). [Elements of Nonlinear Time Series Analysis and Forec
 
 De Graef, Marc (2003). [Introduction to Conventional Transmission Electron Microscopy](http://ctem.web.cmu.edu/frames.html). Cambridge University Press
 
-Demkowicz, Leszek, Jason Kurtz, David Pardo, Maciej Paszynski, Waldemar Rachowicz, and Adam Zdunek (2007). [Computing with Hp-Adaptive Finite Elements, Vol. 2: Frontiers Three Dimensional Elliptic and Maxwell Problems with Applications](https://www.routledge.com/Computing-with-hp-ADAPTIVE-FINITE-ELEMENTS-Volume-II-Frontiers--Three/Demkowicz-Kurtz-Pardo-Paszenski-Rachowicz-Zdunek/p/book/9781584886723) Chapman and Hall/CRC
+Demkowicz, Leszek, Jason Kurtz, David Pardo, Maciej Paszynski, Waldemar Rachowicz, and Adam Zdunek (2007). [Computing with Hp-Adaptive Finite Elements, Vol. 2: Frontiers Three Dimensional Elliptic and Maxwell Problems with Applications](https://www.routledge.com/Computing-with-hp-ADAPTIVE-FINITE-ELEMENTS-Volume-II-Frontiers--Three/Demkowicz-Kurtz-Pardo-Paszenski-Rachowicz-Zdunek/p/book/9781584886723) Chapman and Hall/CRC. Hp3d code [here](https://github.com/Oden-EAG/hp3d).
 
 Dennis, Jr., J.E., and Robert B. Schnabel (1996). [Numerical Methods for Unconstrained Optimization and Nonlinear Equations](https://my.siam.org/Store/Product/viewproduct/?ProductId=755). SIAM. Fortran 90 code for UNCMIN at Alan Miller’s [site](https://jblevins.org/mirror/amiller/)
 
