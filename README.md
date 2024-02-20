@@ -332,6 +332,8 @@ Moré, Jorge J. and Stephen J. Wright (1993). [Optimization Software Guide](http
 
 Moursund, David G., and Charles S. Duris (1988). [Elementary Theory and Application of Numerical Analysis](https://www.amazon.com/Elementary-Theory-Application-Numerical-Analysis/dp/048665754X/fortran-wiki-20). Dover
 
+Musoff, Howard, and Paul Zarchan (2009). [Fundamentals of Kalman Filtering: A Practical Approach, 4th ed.](https://arc.aiaa.org/doi/book/10.2514/4.867200). American Institute of Aeronautics and Astronautics
+
 Nazareth, J.L. (2001). [DLP and Extensions: An Optimization Model and Decision Support System](https://www.springer.com/us/book/9783540411147). Springer. DLPEDU code [here](http://www.math.wsu.edu/faculty/nazareth/dlpedu-ebook.pdf)
 
 Neculai, Andrei (2020). [Nonlinear Conjugate Gradient Methods for Unconstrained Optimization](https://www.springer.com/gp/book/9783030429492). Springer. Fortran codes at author’s [site](https://camo.ici.ro/neculai/ansoft.htm)
