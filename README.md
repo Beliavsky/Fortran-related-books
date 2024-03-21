@@ -365,6 +365,8 @@ Orlandi, Paolo (2000). [Fluid Flow Phenomena: A Numerical Toolkit](https://www.s
 
 Osyczka, Andrzej (1984). [Multicriterion Optimization in Engineering with FORTRAN Programs](https://www.amazon.com/Multicriterion-Optimization-Engineering-FORTRAN-Programs/dp/B002IXMBH2/fortran-wiki-20). Halsted/Wiley
 
+Pacheco, Peter (1996). [Parallel Programming with MPI](https://shop.elsevier.com/books/parallel-programming-with-mpi/pacheco/978-0-08-051354-6). Morgan Kaufmann
+
 Pang, Tao (2006). [An Introduction to Computational Physics, 2nd Edition](http://www.physics.unlv.edu/~pang/cp2.html). Cambridge University Press
 
 Pao, Yen-Ching (1998). [Engineering Analysis: Interactive Methods and Programs with FORTRAN, QuickBASIC, MATLAB, and Mathematica](https://www.routledge.com/Engineering-Analysis-Interactive-Methods-and-Programs-with-FORTRAN-QuickBASIC/Pao/p/book/9780849320163). CRC Press
