@@ -393,6 +393,8 @@ Press, Teukolsky, Vetterling and Flannery (1996). [Numerical Recipes in Fortran 
 
 Rabiner, Lawrence R., and Bernard Gold (1975). [Theory and Application of Digital Signal Processing](https://www.amazon.com/Theory-Application-Digital-Signal-Processing/dp/0139141014/fortran-wiki-20). Prentice Hall
 
+Raman, Raghu (1985). [Chemical Process Computations](https://link.springer.com/book/9780853343417). Springer. Reviewed [here](https://journals.flvc.org/cee/article/view/124412/123410).
+
 Ramkarthik, M.S., and Payal D. Solanki (2021). [Numerical Recipes in Quantum Information Theory and Quantum Computing: An Adventure in FORTRAN 90](https://www.routledge.com/Numerical-Recipes-in-Quantum-Information-Theory-and-Quantum-Computing-An/Ramkarthik-Solanki/p/book/9780367759285).
 CRC Press
 
