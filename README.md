@@ -313,6 +313,8 @@ Liu, G.R., and M. B. Liu (2003). [Smoothed Particle Hydrodynamics: A Meshfree Pa
 
 Lucquin, Brigitte, and Olivier Pironneau (1998). [Introduction to Scientific Computing](https://www.wiley.com/en-us/Introduction+to+Scientific+Computing-p-9780471972662). Wiley. Fortran and C code at Pironneau’s [site](https://www.ljll.math.upmc.fr/pironneau/)
 
+Mabie, Hamilton H., and Charles F. Reinholtz (1987). [Mechanisms and Dynamics of Machinery, 4th ed.](https://www.amazon.com/Mechanisms-Dynamics-Machinery-Hamilton-Mabie/dp/0471802379). Wiley
+
 Marazzi, Alfio (1993). [Algorithms, Routines, and S-Functions for Robust Statistics](https://www.routledge.com/Algorithms-Routines-and-S-Functions-for-Robust-Statistics/Marazzi/p/book/9780412079917). Chapman and Hall/CRC. FORTRAN 77 code available in [robeth](https://cran.r-project.org/web/packages/robeth/index.html) R package
 
 Markus, Arjen (2012). [Modern Fortran in Practice](http://fortranwiki.org/fortran/show/Modern+Fortran+in+Practice). Cambridge University Press.
