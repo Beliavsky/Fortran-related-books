@@ -87,6 +87,8 @@ Chandrasekaran, Sunita, and Guido Juckeland (2017). [OpenACC for Programmers: Co
 
 Chapman, Barbara *et al.* (2007). [Using OpenMP - Portable Shared Memory Parallel Programming](http://fortranwiki.org/fortran/show/Using+OpenMP+-+Portable+Shared+Memory+Parallel+Programming). MIT Press.
 
+Chen, W. F., and I. Sohal (1995). [Plastic Design and Second-Order Analysis of Steel Frames](https://link.springer.com/book/10.1007/978-1-4613-8428-1). Springer
+
 Cheney, Ward and David Kincaid (2012). [Numerical Mathematics and Computing, 7th ed.](https://web.ma.utexas.edu/CNA/NMC7/). Brooks/Cole: Cengage Learning
 
 Ching, Wai-Yim, and Paul Rulis (2012). [Electronic Structure Methods for Complex Materials: The orthogonalized linear combination of atomic orbitals](https://academic.oup.com/book/34699). Oxford University Press. Code [here](https://github.com/UMKC-CPG/olcao).
