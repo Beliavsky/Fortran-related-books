@@ -494,6 +494,8 @@ Szabo, Attila, and Neil S. Ostlund (1989). [Modern Quantum Chemistry: Introducti
 
 Tanizaki, Hisashi (2004). [Computational Methods in Statistics and Econometrics](http://www2.econ.osaka-u.ac.jp/~tanizaki/cv/books/cmse/cmse.pdf). CRC Press
 
+Thompson, Erik G. (2004). [Introduction to the Finite Element Method: Theory, Programming and Applications](https://www.wiley.com/en-us/Introduction+to+the+Finite+Element+Method%3A+Theory%2C+Programming+and+Applications-p-9780471267539). Wiley. Codes [Fortran and Matlab codes here](https://higheredbcs.wiley.com/legacy/college/thompson/0471267538/codes/index.html)
+
 Thompson, Ian J., and Filomena M. Nunes (2009). [Nuclear Reactions for Astrophysics: Principles, Calculation and Applications of Low-Energy Reactions](http://www.fresco.org.uk/book/reactions.htm). Cambridge University Press
 
 Thompson, William J. (1997). [Atlas for Computing Mathematical Functions: An Illustrated Guide for Practitioners with Programs in FORTRAN and Mathematica](https://www.wolfram.com/books/profile.cgi?id=3844). Wiley
