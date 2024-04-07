@@ -534,6 +534,8 @@ Wright, E. Alaphia (1990). [Open Pit Mine Design Models: Introduction With Fortr
 
 Yanushevsky, Rafael (2019). [Modern Missile Guidance, 2nd ed.](https://www.routledge.com/Modern-Missile-Guidance/Yanushevsky/p/book/9780815384861). CRC
 
+Zhou, Xiao-Hua, Donna K. McClish, and Nancy A. Obuchowski (2009). [Statistical Methods in Diagnostic Medicine](https://www.wiley.com/en-us/Statistical+Methods+in+Diagnostic+Medicine-p-9780470317921). Wiley
+
 Zienkiewicz, O.C., R. L. Taylor, and J.Z. Zhu (2013). [The Finite Element Method: Its Basis and Fundamentals
 7th Ed.](https://www.elsevier.com/books/the-finite-element-method-its-basis-and-fundamentals/zienkiewicz/978-1-85617-633-0). Oxford. [feappv code at GitHub](https://github.com/sanjayg0/feappv)
 
