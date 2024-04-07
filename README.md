@@ -524,7 +524,7 @@ White, Robert E. (1985). [An Introduction to the Finite Element Method with Appl
 
 White, Robert E. (2016). [Computational Mathematics Models, Methods, and Analysis with MATLAB® and MPI, 2nd ed.](https://www.routledge.com/Computational-Mathematics-Models-Methods-and-Analysis-with-MATLAB-and/White/p/book/9781482235159). CRC
 
-Wilde, Richard E., and Surjit Singh. (1997). [Statistical Mechanics: Fundamentals and Modern Applications](https://www.wiley.com/en-us/Statistical+Mechanics%3A+Fundamentals+and+Modern+Applications-p-9780471161653). Wiley
+Wilde, Richard E., and Surjit Singh (1997). [Statistical Mechanics: Fundamentals and Modern Applications](https://www.wiley.com/en-us/Statistical+Mechanics%3A+Fundamentals+and+Modern+Applications-p-9780471161653). Wiley
 
 Wolfe, Carvel S. (1985). [Linear Programming with BASIC and FORTRAN](https://books.google.com/books/about/Linear_Programming_with_BASIC_and_FORTRA.html?id=vZ0-AQAAIAAJ). Reston Publishing Company
 
