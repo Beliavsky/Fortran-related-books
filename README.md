@@ -371,7 +371,7 @@ Orlandi, Paolo (2000). [Fluid Flow Phenomena: A Numerical Toolkit](https://www.s
 
 Osyczka, Andrzej (1984). [Multicriterion Optimization in Engineering with FORTRAN Programs](https://www.amazon.com/Multicriterion-Optimization-Engineering-FORTRAN-Programs/dp/B002IXMBH2/fortran-wiki-20). Halsted/Wiley
 
-Owen, D. R. J., and Ernest Hinton (1980). [Finite Elements in Plasticity: Theory and Practice](https://books.google.com/books/about/Finite_Elements_in_Plasticity.html?id=IzcIAQAAIAAJ). Pineridge Press. Related code [here](https://github.com/viktorrobin/FEM)
+Owen, D. R. J., and Ernest Hinton (1980). [Finite Elements in Plasticity: Theory and Practice](https://books.google.com/books/about/Finite_Elements_in_Plasticity.html?id=IzcIAQAAIAAJ). Pineridge Press. Reviewed [here](https://onlinelibrary.wiley.com/doi/10.1002/nme.1620170712), related code [here](https://github.com/viktorrobin/FEM)
 
 Pacheco, Peter (1996). [Parallel Programming with MPI](https://shop.elsevier.com/books/parallel-programming-with-mpi/pacheco/978-0-08-051354-6). Morgan Kaufmann
 
