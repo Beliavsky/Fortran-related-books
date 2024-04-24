@@ -143,6 +143,8 @@ Dierckx, Paul (1993). [Curve and Surface Fitting with Splines](https://global.ou
 
 Elliott, J. Richard, Vladimir Diky, Thomas A. Knotts IV, and W. Vincent Wilding (2023). [The Properties of Gases and Liquids, 6th ed.](https://www.mhprofessional.com/the-properties-of-gases-and-liquids-sixth-edition-9781260116342-usa). McGraw-Hill. Code at [GitHub](https://github.com/PGLadmin/PGLWrapper)
 
+Emanuel, Kerry A. (1994). [Atmospheric Convection](https://global.oup.com/academic/product/atmospheric-convection-9780195066302). Oxford. Code [here](https://emanuel.mit.edu/fortran-programs-atmospheric-convection)
+
 Engeln-Müllges, Gisela and Uhlig, Frank (2013). [Numerical Algorithms with Fortran](http://fortranwiki.org/fortran/show/Numerical+Algorithms+with+Fortran). Springer.
 
 Epps, Thomas W. (2007). [Pricing Derivative Securities, 2nd. ed.](https://www.worldscientific.com/worldscibooks/10.1142/6243#t=suppl). World Scientific
