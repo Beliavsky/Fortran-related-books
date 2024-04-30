@@ -538,7 +538,7 @@ Wolfe, Carvel S. (1973). [Linear programming with Fortran](https://www.amazon.co
 
 Wright, E. Alaphia (1990). [Open Pit Mine Design Models: Introduction With Fortran 77 Programs](https://www.abebooks.com/servlet/BookDetailsPL?bi=21948034304). Trans Tech Publications
 
-Wu, Lianda, and Mingjiang Zhang (2024). [Hansen Coefficients in Satellite Orbital Dynamics](https://link.springer.com/book/10.1007/978-981-97-0456-9) Springer. Code in [Appendix D](https://link.springer.com/content/pdf/bbm:978-981-97-0456-9/1).
+Wu, Lianda, and Mingjiang Zhang (2024). [Hansen Coefficients in Satellite Orbital Dynamics](https://link.springer.com/book/10.1007/978-981-97-0456-9). Springer. Code in [Appendix D](https://link.springer.com/content/pdf/bbm:978-981-97-0456-9/1).
 
 Yanushevsky, Rafael (2019). [Modern Missile Guidance, 2nd ed.](https://www.routledge.com/Modern-Missile-Guidance/Yanushevsky/p/book/9780815384861). CRC
 
