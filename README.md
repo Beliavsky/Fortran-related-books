@@ -354,6 +354,8 @@ Newton, H. Joseph (1988). [Timeslab: A Time Series Analysis Laboratory](https://
 
 Ng, Shu Kay, Liming Xiang, and Kelvin Kai Wing Yau (2019). [Mixture Modelling for Medical and Health Sciences](https://www.routledge.com/Mixture-Modelling-for-Medical-and-Health-Sciences/Ng-Xiang-Yau/p/book/9780367729332). CRC Press.
 
+Nguyen, Duc Thai (2024). [Parallel-Sparse Statics and Eigen-Solutions](https://link.springer.com/book/10.1007/978-3-031-48788-0). Springer
+
 Nguyen, Duc Thai (2002). [Parallel-Vector Equation Solvers for Finite Element Engineering Applications](https://www.springer.com/us/book/9780306466403). Springer
 
 Nijenhuis, Albert, and Herbert S. Wilf (1978). [Combinatorial Algorithms
