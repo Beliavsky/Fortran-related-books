@@ -476,7 +476,7 @@ Smetana, Frederick O. (1997). [Introductory Aerodynamics and Hydrodynamics of Wi
 
 Smetana, Frederick O. (1981). [Fortran Codes for Classical Methods in Linear Dynamics](https://www.amazon.com/Fortran-Classical-Methods-Linear-Dynamics/dp/0070584400/fortran-wiki-20). McGraw-Hill
 
-Smith, I.M., D. V. Griffiths, and L. Margetts (2013). [Programming the Finite Element Method, 5th Edition](https://www.wiley.com/en-us/Programming+the+Finite+Element+Method%2C+5th+Edition-p-9781119973348). Wiley. Code at Griffiths’ [site](http://inside.mines.edu/~vgriffit/)
+Smith, I.M., D. V. Griffiths, and L. Margetts (2013). [Programming the Finite Element Method, 5th Edition](https://www.wiley.com/en-us/Programming+the+Finite+Element+Method%2C+5th+Edition-p-9781119973348). Wiley. Code at Griffiths’ [site](http://inside.mines.edu/~vgriffit/) and [GitHub](https://github.com/ParaFEM/ParaFEM)
 
 Smylie, D. E. (2013). [Earth Dynamics: Deformations and Oscillations of the Rotating Earth](https://www.yorku.ca/smylie/). Cambridge University Press
 
