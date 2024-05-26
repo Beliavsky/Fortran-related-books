@@ -27,6 +27,8 @@ Bagirov, Adil, M. Gaudioso, N. Karmitsa, M. M. Mäkelä, and S. Taheri, (Eds.), 
 
 Bagirov, Adil, Napsu Karmitsa, and Sona Taheri (2020). [Partitional Clustering via Nonsmooth Optimization](http://napsu.karmitsa.fi/). Springer
 
+Bánhelyi, Balázs, Tibor Csendes, Balázs Lévai, László Pál, and Dániel Zombori (2018). [The GLOBAL Optimization Algorithm: Newly Updated with Java Implementation and Parallelization](https://link.springer.com/book/10.1007/978-3-030-02375-1). Springer. Fortran 90 code [here](https://jblevins.org/mirror/amiller/global.f90) and original Fortran code [here](https://www.inf.u-szeged.hu/~csendes/Reg/regform.php)
+
 Bartschat, Klaus (Ed.) (1996). [Computational Atomic Physics: Electron and Positron Collisions with Atoms and Ions](https://www.springer.com/us/book/9783642646553). Springer
 
 Bathe, Klaus-Jurgen (2014). [Finite Element Procedures, 2nd ed.](https://www.amazon.com/Finite-Element-Procedures-Klaus-J%C3%BCrgen-Bathe/dp/0979004950). Prentice Hall. Text [here](https://web.mit.edu/kjb/www/Books/FEP_2nd_Edition_4th_Printing.pdf) Related code [ADINA](http://www.adina.com/educ.shtml), [OpenSTAP](https://github.com/HaoguangYang/OpenSTAP), and [STAP90](https://github.com/weixiao-huang/STAP90)
