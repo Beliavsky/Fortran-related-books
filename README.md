@@ -385,11 +385,11 @@ Pang, Tao (2006). [An Introduction to Computational Physics, 2nd Edition](http:/
 
 Pao, Yen-Ching (1998). [Engineering Analysis: Interactive Methods and Programs with FORTRAN, QuickBASIC, MATLAB, and Mathematica](https://www.routledge.com/Engineering-Analysis-Interactive-Methods-and-Programs-with-FORTRAN-QuickBASIC/Pao/p/book/9780849320163). CRC Press
 
-París, Federico, and José Cañas (1997) [Boundary Element Method: Fundamentals and Applications](https://www.amazon.com/Boundary-Element-Method-Fundamentals-Applications/dp/0198565372). Oxford University Press. Code at Burkardt's [site](https://people.math.sc.edu/Burkardt/f77_src/betis/betis.html).
+París, Federico, and José Cañas (1997). [Boundary Element Method: Fundamentals and Applications](https://www.amazon.com/Boundary-Element-Method-Fundamentals-Applications/dp/0198565372). Oxford University Press. Code at Burkardt's [site](https://people.math.sc.edu/Burkardt/f77_src/betis/betis.html).
 
-Parsons, Thomas W. (1986) [Voice and Speech Processing](https://www.amazon.com/gp/product/0070485410). McGraw-Hill. Appendix B has code for FFT and time series analysis.
+Parsons, Thomas W. (1986). [Voice and Speech Processing](https://www.amazon.com/gp/product/0070485410). McGraw-Hill. Appendix B has code for FFT and time series analysis.
 
-Patankar, Suhas V. (1991) [Computation of Conduction and Duct Flow Heat Transfer](https://www.routledge.com/Computation-of-Conduction-and-Duct-Flow-Heat-Transfer/Patankar/p/book/9780367450595). CRC Press
+Patankar, Suhas V. (1991). [Computation of Conduction and Duct Flow Heat Transfer](https://www.routledge.com/Computation-of-Conduction-and-Duct-Flow-Heat-Transfer/Patankar/p/book/9780367450595). CRC Press
 
 Pozrikidis, C. (2017). [Fluid Dynamics: Theory, Computation, and Numerical Simulation, 3rd ed.](http://dehesa.freeshell.org/FD3/). Springer
 
