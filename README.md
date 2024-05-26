@@ -153,6 +153,8 @@ Erban, Radek, and Jonathan Chapman (2020). [Stochastic Modelling of Reaction-Dif
 
 Evensen, Geir (2009). [Data assimilation, The Ensemble Kalman Filter, 2nd ed.](https://enkf.nersc.no/). Springer
 
+Farlow, Stanley J. (1984). [Self-Organizing Methods in Modeling: GMDH Type Algorithms](https://www.taylorfrancis.com/books/edit/10.1201/9781003065227/self-organizing-methods-modeling-stanley-farlow). CRC Press
+
 Farrashkhalvat, M., and J.P. Miles (2003). [Basic Structured Grid Generation, with an introduction to unstructured grid generation](https://www.sciencedirect.com/book/9780750650588/basic-structured-grid-generation). Butterworth-Heinemann
 
 Fehr, Hans and Kindermann, Fabian (2018). [Introduction to Computational Economics Using Fortran](http://fortranwiki.org/fortran/show/Introduction+to+Computational+Economics+Using+Fortran). Oxford University Press.
