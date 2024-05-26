@@ -87,7 +87,9 @@ Chandra, Rohit, Ramesh Menon, Leo Dagum, David Kohr, Dror Maydan, and Jeff McDon
 
 Chandrasekaran, Sunita, and Guido Juckeland (2017). [OpenACC for Programmers: Concepts and Strategies](https://www.informit.com/store/openacc-for-programmers-concepts-and-strategies-9780134694283). Addison-Wesley. Code [here](https://github.com/OpenACCUserGroup/openacc_concept_strategies_book).
 
-Chapman, Barbara *et al.* (2007). [Using OpenMP - Portable Shared Memory Parallel Programming](http://fortranwiki.org/fortran/show/Using+OpenMP+-+Portable+Shared+Memory+Parallel+Programming). MIT Press.
+Chapman, Barbara *et al.* (2007). [Using OpenMP - Portable Shared Memory Parallel Programming](http://fortranwiki.org/fortran/show/Using+OpenMP+-+Portable+Shared+Memory+Parallel+Programming). MIT Press
+
+Chen, W. F., and S. Toma (1994). [Advanced Analysis of Steel Frames: Theory, Software, and Applications](https://www.routledge.com/Advanced-Analysis-of-Steel-Frames-Theory-Software-and-Applications/Chen/p/book/9781315890418). CRC Press
 
 Chen, W. F., and I. Sohal (1995). [Plastic Design and Second-Order Analysis of Steel Frames](https://link.springer.com/book/10.1007/978-1-4613-8428-1). Springer
 
