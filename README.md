@@ -336,6 +336,8 @@ Mielke, Jr., Paul W., and Kenneth J. Berry (2007). [Permutation Methods: A Dista
 
 Miller, Alan (2002). [Subset Selection in Regression, 2nd ed.](https://www.routledge.com/Subset-Selection-in-Regression/Miller/p/book/9780367396220). Chapman and Hall/CRC. code at Miller’s [site](https://jblevins.org/mirror/amiller/)
 
+Modest, Michael F. (2013), [Radiative Heat Transfer, 3rd ed.](https://www.sciencedirect.com/book/9780123869449/radiative-heat-transfer). Elsevier
+
 Monahan, John F. (2011). [Numerical Methods of Statistics, 2nd ed.](https://www4.stat.ncsu.edu/~monahan/nmos2/toc.html). Cambridge University Press
 
 Moran, Jack (1984). [An Introduction to Theoretical and Computational Aerodynamics](https://store.doverpublications.com/0486428796.html). Wiley. Reviewed [here](https://arc.aiaa.org/doi/10.2514/3.48703)
