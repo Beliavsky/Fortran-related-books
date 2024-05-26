@@ -389,6 +389,8 @@ París, Federico, and José Cañas (1997) [Boundary Element Method: Fundamentals
 
 Parsons, Thomas W. (1986) [Voice and Speech Processing](https://www.amazon.com/gp/product/0070485410). McGraw-Hill. Appendix B has code for FFT and time series analysis.
 
+Patankar, Suhas V. (1991) [Computation of Conduction and Duct Flow Heat Transfer](https://www.routledge.com/Computation-of-Conduction-and-Duct-Flow-Heat-Transfer/Patankar/p/book/9780367450595). CRC Press
+
 Pozrikidis, C. (2017). [Fluid Dynamics: Theory, Computation, and Numerical Simulation, 3rd ed.](http://dehesa.freeshell.org/FD3/). Springer
 
 Pozrikidis, C. (2008). [Numerical Computation in Science and Engineering, 2nd. ed.](http://dehesa.freeshell.org/NCSE2/). Oxford University Press
