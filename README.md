@@ -193,6 +193,8 @@ Frenkel, Daan, and Berend Smit (2002). [Understanding Molecular Simulation: From
 
 Fuller, W. R. (1977). [FORTRAN Programming: A Supplement for Calculus Courses](https://www.springer.com/gp/book/9780387902838). Springer
 
+Gallucci, Vincent F., Saul B. Saila, Daniel J. Gustafson, and Brian J. Rothschild (1995). [Stock Assessment: Quantitative Methods and Applications for Small Scale Fisheries](https://www.routledge.com/Stock-Assessment-Quantitative-Methods-and-Applications-for-Small-Scale-Fisheries/Gallucci-Saila-Gustafson-Rothschild/p/book/9780367448820). CRC Press. Code [here](https://www.routledge.com/downloads/L1151/L1151.zip)
+
 Garcia, Alejandro L. (1994). [Numerical Methods for Physics](http://www.algarcia.org/nummeth/nummeth.html). Prentice Hall
 
 Genz, Alan, and Frank Bretz (2009). [Computation of Multivariate Normal and t Probabilities](https://link.springer.com/book/10.1007/978-3-642-01689-9). Springer. Code [here](https://www.math.wsu.edu/faculty/genz/software/software.html) and [here](https://econ.lse.ac.uk/staff/vassilis/emetrsoft/nrpsimf/)
