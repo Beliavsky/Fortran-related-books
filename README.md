@@ -29,7 +29,7 @@ Bagirov, Adil, Napsu Karmitsa, and Sona Taheri (2020). [Partitional Clustering v
 
 Bánhelyi, Balázs, Tibor Csendes, Balázs Lévai, László Pál, and Dániel Zombori (2018). [The GLOBAL Optimization Algorithm: Newly Updated with Java Implementation and Parallelization](https://link.springer.com/book/10.1007/978-3-030-02375-1). Springer. Fortran 90 code [here](https://jblevins.org/mirror/amiller/global.f90) and original Fortran code [here](https://www.inf.u-szeged.hu/~csendes/Reg/regform.php)
 
-Barrett, Richard, Michael Berry, Tony F. Chan, James Demmel, June Donato, Jack Dongarra, Victor Eijkhout, Roldan Pozo, Charles Romine, and Henk van der Vorst (1994). [Templates for the Solution of Linear Systems: Building Blocks for Iterative Methods, 2nd ed.](https://www.netlib.org/linalg/html_templates/Templates.html). Code [here](https://www.netlib.org/templates/)
+Barrett, Richard, Michael Berry, Tony F. Chan, James Demmel, June Donato, Jack Dongarra, Victor Eijkhout, Roldan Pozo, Charles Romine, and Henk van der Vorst (1994). [Templates for the Solution of Linear Systems: Building Blocks for Iterative Methods, 2nd ed](https://www.netlib.org/linalg/html_templates/Templates.html). SIAM. Code [here](https://www.netlib.org/templates/)
 
 Bartschat, Klaus (Ed.) (1996). [Computational Atomic Physics: Electron and Positron Collisions with Atoms and Ions](https://www.springer.com/us/book/9783642646553). Springer
 
