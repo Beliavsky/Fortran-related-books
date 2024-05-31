@@ -117,6 +117,8 @@ Curotto, Emanuele (2009). [Stochastic Simulations of Clusters: Quantum Methods i
 
 Dagpunar, John (1988). [Principles of Random Variate Generation](https://www.amazon.com/Principles-Random-Variate-Generation-Dagpunar/dp/0198522029/fortran-wiki-20). Oxford University Press. Related Fortran 90 [code](https://jblevins.org/mirror/amiller/random.f90) from Alan Miller.
 
+Date, Anil W. (2005). [Introduction to Computational Fluid Dynamics](https://www.cambridge.org/core/books/introduction-to-computational-fluid-dynamics/DAE7132CD57EA9D487BECEE529B86A7E). Cambridge University Press
+
 Davies, R.G. (1971). [Computer Programming in Quantitative Biology](https://www.elsevier.com/books/computer-programming-in-quantitative-biology/davies/978-0-12-206250-6). Academic Press
 
 Davis, Mark E. (1984). [Numerical Methods & Modeling for Chemical Engineers](https://www.amazon.com/Numerical-Modeling-Chemical-Engineers-Mathematics/dp/0486493830/fortran-wiki-20). Wiley
