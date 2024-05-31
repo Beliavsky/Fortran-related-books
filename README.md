@@ -329,6 +329,8 @@ Leffelaar P. A. (1993). [On Systems Analysis and Simulation of Ecological Proces
 
 Liu, G.R., and M. B. Liu (2003). [Smoothed Particle Hydrodynamics: A Meshfree Particle Method](https://www.worldscientific.com/worldscibooks/10.1142/5340). World Scientific. Code at site and at [GitHub](https://github.com/QuantumWarlock/LiuBook_SPH3D)
 
+Lobo, Michael (1997). [Time-Marching: A Step-by-step Guide to a Flow Solver](https://www.routledge.com/Time-Marching-A-Step-by-step-Guide-to-a-Flow-Solver/Lobo/p/book/9781138364547). Gower Technical
+
 Lucquin, Brigitte, and Olivier Pironneau (1998). [Introduction to Scientific Computing](https://www.wiley.com/en-us/Introduction+to+Scientific+Computing-p-9780471972662). Wiley. Fortran and C code at Pironneau’s [site](https://www.ljll.math.upmc.fr/pironneau/)
 
 Mabie, Hamilton H., and Charles F. Reinholtz (1987). [Mechanisms and Dynamics of Machinery, 4th ed.](https://www.amazon.com/Mechanisms-Dynamics-Machinery-Hamilton-Mabie/dp/0471802379). Wiley
