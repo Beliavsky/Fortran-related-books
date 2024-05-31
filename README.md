@@ -532,7 +532,7 @@ Trapp, Michael, and Andreas Öchsner (2018). [Computational Plasticity for Finit
 
 Traub, Joseph (1964). [Iterative Methods for the Solution of Equations](https://www.amazon.com/Iterative-Methods-Solution-Equations-Publication/dp/0828403120) Prentice Hall. Code by John Burkardt [here](https://people.sc.fsu.edu/~jburkardt/f_src/zoomin/zoomin.html)
 
-Vallado, David (2022). [Fundamentals of Astrodynamics and Applications, 5th ed.](https://astrobooks.com/vallado5hb.aspx) Microcosm Press. Code [here](https://celestrak.org/software/vallado-sw.php)
+Vallado, David (2022). [Fundamentals of Astrodynamics and Applications, 5th ed.](https://astrobooks.com/vallado5hb.aspx) Microcosm Press. Code [here](https://celestrak.org/software/vallado-sw.php) and [here](https://github.com/scivision/vallado-astrodynamics)
 
 Villadsen, John, and Michael L. Michelsen (1978). [Solution of Differential Equations Models by Polynomial Approximation](https://www.amazon.com/differential-approximation-Prentice-Hall-international-engineering/dp/0138222053). Prentice-Hall. Modernized code in [stiff3](https://github.com/ivan-pi/stiff3) on GitHub by Ivan Pribec
 
