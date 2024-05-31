@@ -299,6 +299,8 @@ Keeling, Matt J. and Pej Rohani (2007). [Modeling Infectious Diseases in Humans 
 
 Kernighan, Brian W. and Pike, Rob (1999). [The Practice of Programming](http://fortranwiki.org/fortran/show/The+Practice+of+Programming). Addison-Wesley.
 
+Kheir, Naim (1995). [Systems Modeling and Computer Simulation](https://www.routledge.com/Systems-Modeling-and-Computer-Simulation/Kheir/p/book/9780203737439). CRC Press
+
 Kincaid, David and Ward Cheney (2002). [Numerical Analysis: Mathematics of Scientific Computing, 3rd ed.](https://bookstore.ams.org/amstext-2). American Mathematical Society. Code [here](https://web.ma.utexas.edu/CNA/NA3/sample.html)
 
 Kitagawa, Genshiro (2020). [Introduction to Time Series Modeling with Applications in R](https://www.routledge.com/Introduction-to-Time-Series-Modeling-with-Applications-in-R/Kitagawa/p/book/9780367187330). CRC. Associated R package [TSSS: Time Series Analysis with State Space Model](https://cran.r-project.org/web/packages/TSSS/index.html) has Fortran code.
