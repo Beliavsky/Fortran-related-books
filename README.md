@@ -560,6 +560,8 @@ Wu, Lianda, and Mingjiang Zhang (2024). [Hansen Coefficients in Satellite Orbita
 
 Yanushevsky, Rafael (2019). [Modern Missile Guidance, 2nd ed.](https://www.routledge.com/Modern-Missile-Guidance/Yanushevsky/p/book/9780815384861). CRC
 
+Zarchan, Paul (2007). [Tactical and Strategic Missile Guidance, 5th ed.](https://books.google.com/books/about/Tactical_and_Strategic_Missile_Guidance.html?id=OoVTAAAAMAAJ) American Institute of Aeronautics and Astronautics
+
 Zhou, Xiao-Hua, Donna K. McClish, and Nancy A. Obuchowski (2009). [Statistical Methods in Diagnostic Medicine](https://www.wiley.com/en-us/Statistical+Methods+in+Diagnostic+Medicine-p-9780470317921). Wiley
 
 Zienkiewicz, O.C., R. L. Taylor, and J.Z. Zhu (2013). [The Finite Element Method: Its Basis and Fundamentals
