@@ -85,6 +85,8 @@ Burkard, Rainer E., and Ulrich Derigs (1980). [Assignment and Matching Problems:
 
 Castellanos, Kenneth, Andrew Feltenstein,  and Gohar Sedrakyan (2024). [Computable General Equilibrium Modeling: Theory and Applications](https://www.routledge.com/Computable-General-Equilibrium-Modeling-Theory-and-Applications/Castellanos-Feltenstein-Sedrakyan/p/book/9780367272050). Routledge
 
+Chandra, Prabir K., and R. Paul Singh (1994). [Applied Numerical Methods for Food and Agricultural Engineers](https://www.routledge.com/Applied-Numerical-Methods-for-Food-and-Agricultural-Engineers/Chandra-Singh/p/book/9780849324543). CRC Press
+
 Chandra, Rohit, Ramesh Menon, Leo Dagum, David Kohr, Dror Maydan, and Jeff McDonald (2000). [Parallel Programming in OpenMP](https://www.elsevier.com/books/parallel-programming-in-openmp/chandra/978-1-55860-671-5). Morgan Kaufmann
 
 Chandrasekaran, Sunita, and Guido Juckeland (2017). [OpenACC for Programmers: Concepts and Strategies](https://www.informit.com/store/openacc-for-programmers-concepts-and-strategies-9780134694283). Addison-Wesley. Code [here](https://github.com/OpenACCUserGroup/openacc_concept_strategies_book).
