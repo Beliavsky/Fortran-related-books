@@ -191,6 +191,10 @@ Fletcher, R. (2000). [Practical Methods of Optimization, 2nd Edition](https://ww
 
 Fornberg, Bengt (1998). [A Practical Guide to Pseudospectral Methods](https://www.cambridge.org/core/books/practical-guide-to-pseudospectral-methods/A480974AF6FAF85BF2DBC1D17F195A82). Cambridge University Press.
 
+Fornés, José Antonio (2021). [Principles of Brownian and molecular motors](https://link.springer.com/book/10.1007/978-3-030-64957-9). Springer
+
+Fornés, José Antonio (2024). [Quantum Processes in Biology](https://link.springer.com/book/10.1007/978-3-031-58078-9). Springer
+
 Forsythe, George E., Michael A. Malcolm, and Cleve B. Moler (1977). [Computer Methods for Mathematical Computations](https://www.amazon.com/Mathematical-Computations-Prentice-Hall-automatic-computation/dp/0131653326/fortran-wiki-20). Prentice-Hall. Code at [Netlib](http://www.netlib.org/fmm/index.html)
 
 Francq, Christian and Jean‐Michel Zakoian (2019). [GARCH Models: Structure, Statistical Inference and Financial Applications, 2nd. ed.](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119313472). Wiley. Code at Francq’s [site](http://christian.francq140.free.fr/Christian-Francq/GARCH-Models/Identification/portmanteau.html)
