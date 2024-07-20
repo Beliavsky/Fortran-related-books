@@ -319,6 +319,8 @@ Kopriva, David (2009). [Implementing Spectral Methods for Partial Differential E
 
 Kuester, James L., and Joe H. Mize (1973). [Optimization Techniques with Fortran](https://www.amazon.com/Optimization-Techniques-Fortran-Kuester-1973-06-01/dp/B01A64AHLQ/fortran-wiki-20). McGraw-Hill
 
+Künzi, Hans P., H. G. Tzschach, and C. A. Zehnder (1968). [Numerical Methods of Mathematical Optimization: With ALGOL and FORTRAN Programs](https://shop.elsevier.com/books/numerical-methods-of-mathematical-optimization/rheinboldt/978-0-12-428850-8). Academic Press
+
 Land, A., and S. Powell (1973). [Fortran codes for mathematical programming: linear, quadratic and discrete](https://www.amazon.com/Fortran-codes-mathematical-programming-quadratic/dp/0471512702/fortran-wiki-20). Wiley
 
 Lau, Hang Tong (1989). [Algorithms on Graphs](https://www.amazon.com/Algorithms-Graphs-H-T-Lau/dp/0830634290). Tab Books. Fortran 90 version of code at Burkardt’s [site](https://people.sc.fsu.edu/~jburkardt/f_src/laupack/laupack.html)
