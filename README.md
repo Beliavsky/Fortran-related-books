@@ -456,6 +456,8 @@ Rouson, D., J. Xia, and X. Xu (2011). [Scientific Software Design - The Object-O
 
 Ruetsch, Gregory and Fatica, Massimiliano (2013). [CUDA Fortran for Scientists and Engineers](http://fortranwiki.org/fortran/show/CUDA+Fortran+for+Scientists+and+Engineers). Morgan Kaufmann.
 
+Ruetsch, Gregory and Fatica, Massimiliano (2024). [CUDA Fortran for Scientists and Engineers, 2nd ed.](https://shop.elsevier.com/books/cuda-fortran-for-scientists-and-engineers/ruetsch/978-0-443-21977-1). Morgan Kaufmann.
+
 Saad, Yousef (2003). [Iterative Methods for Sparse Linear Systems, 2nd Edition](https://www-users.cs.umn.edu/~saad/IterMethBook_2ndEd.pdf). SIAM
 
 Saad, Yousef (2011). [Numerical Methods for Large Eigenvalue Problems - 2nd Edition](https://www-users.cs.umn.edu/~saad/eig_book_2ndEd.pdf). SIAM
