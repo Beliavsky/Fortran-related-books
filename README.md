@@ -356,6 +356,8 @@ Marple, S. Lawrence (1987). [Digital Spectral Analysis with Applications](https:
 Martello, Silvano, and Paolo Toth (1990). [Knapsack Problems: Algorithms and Computer Implementations](http://www.or.deis.unibo.it/kp.html).
 Wiley.
 
+Mathews, John H. (1992). [Numerical Methods For Mathematics, Science, and Engineering, 2nd ed.](https://www.amazon.com/Numerical-Methods-Mathematics-Science-Engineering/dp/0136249906) Prentice-Hall. Code at [Netlib](https://netlib.sandia.gov/textbook/mathews/)
+
 Mattson, Timothy G., Yun (Helen) He, and Alice E. Koniges (2019). [The OpenMP Common Core: Making OpenMP Simple Again](https://mitpress.mit.edu/books/openmp-common-core). MIT Press
 
 Mielke, Jr., Paul W., and Kenneth J. Berry (2007). [Permutation Methods: A Distance Function Approach](https://www.springer.com/gp/book/9781475734492). Springer. code at Mielke’s [site](https://www.stat.colostate.edu/~mielke/permute.html)
