@@ -211,7 +211,7 @@ Genz, Alan, and Frank Bretz (2009). [Computation of Multivariate Normal and t Pr
 
 George, Alan, and Joseph W. Liu (1981). [Computer Solution of Large Sparse Positive Definite Systems](http://heath.cs.illinois.edu/courses/cs598mh/george_liu.pdf). Prentice Hall. Sparsepak code updated by John Burkardt [here](https://people.math.sc.edu/Burkardt/f_src/sparsepak/sparsepak.html), book reviewed [here](https://epubs.siam.org/doi/10.1137/1026055).
 
-Gerald, Curtis F., and Patrick O. Wheatley [Applied Numerical Analysis, 7th ed.](https://books.google.com/books/about/Applied_Numerical_Analysis.html?id=BiOZQgAACAAJ). Addison-Wesley
+Gerald, Curtis F., and Patrick O. Wheatley (2004). [Applied Numerical Analysis, 7th ed.](https://books.google.com/books/about/Applied_Numerical_Analysis.html?id=BiOZQgAACAAJ). Addison-Wesley
 
 Gibbs, B. P. (2011). [Advanced Kalman Filtering, Least-Squares, and Modeling, A Practical Handbook](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470890042). Wiley. The software is included in a single zip file (Gibbs_Software_1_2.zip) located at web site ftp://ftp.wiley.com/public/sci_tech_med/least_squares/
 
