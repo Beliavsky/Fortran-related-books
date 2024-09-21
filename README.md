@@ -450,6 +450,8 @@ Rao, Natti S. (1981). [Designing Machines and Dies for Polymer Processing with C
 
 Reddy, J. N. (2005). [An Introduction to the Finite Element Method, 3rd ed.](http://highered.mheducation.com/sites/0072466855/index.html). McGraw-Hill. Code [here](https://mechanics.tamu.edu/fem-codes-from-linear-fem-book-in-fortran/)
 
+Roberson, John A., and Clayton T. Crowe (1997). [Engineering Fluid Mechanics, 6th ed.](https://www.amazon.com/Engineering-Fluid-Mechanics-John-Roberson/dp/0471147354). Wiley. The appendix has programs for (1) finding the velocity distribution in a Couette flow with a variable viscosity distribution, (2) finding values for stream function in converging duct by solving, numerically, Laplace's equation using the line-by-line procedure, (3) analysis of fluid flowing in an extended length Venturi approach section, and (4) the time history of the water surface profile in a basin open to a reservoir with a sinusoidally varying water surface level.
+
 Robey, Robert and Yuliana Zamora (2021). [Parallel and High Performance Computing](https://www.manning.com/books/parallel-and-high-performance-computing). Manning
 
 Roe, Byron P. (2001). [Probability and Statistics in Experimental Physics](https://www.springer.com/gp/book/9780387951638). Springer
