@@ -435,6 +435,8 @@ Press, Flannery, Teukolsky, and Vetterling (1992). [Numerical Recipes in Fortran
 
 Press, Teukolsky, Vetterling and Flannery (1996). [Numerical Recipes in Fortran 90 - The Art of Parallel Scientific Computing](http://fortranwiki.org/fortran/show/Numerical+Recipes+in+Fortran+90+-+The+Art+of+Parallel+Scientific+Computing). Cambridge University Press
 
+Pritsker, A. Alan B. (1995). [Introduction to Simulation and SLAM II, 4th ed.](https://www.amazon.com/Introduction-Simulation-SLAM-Alan-Pritsker/dp/0470234571), Wiley. Reviewed [here](https://dl.acm.org/doi/10.5555/200767)
+
 Rabiner, Lawrence R., and Bernard Gold (1975). [Theory and Application of Digital Signal Processing](https://www.amazon.com/Theory-Application-Digital-Signal-Processing/dp/0139141014/fortran-wiki-20). Prentice Hall
 
 Raman, Raghu (1985). [Chemical Process Computations](https://link.springer.com/book/9780853343417). Springer. Reviewed [here](https://journals.flvc.org/cee/article/view/124412/123410).
