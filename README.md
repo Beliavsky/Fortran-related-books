@@ -490,7 +490,7 @@ Schittkowski, Klaus (1987). [More Test Examples for Nonlinear Programming Codes]
 
 Schittkowski, Klaus (1980). [Nonlinear Programming Codes: Information, Tests, Performance](https://www.springer.com/us/book/9783540102472). Springer
 
-Schmid, Erich W., Gerhard Spitz, and Wolfgang Losch (1988). [Theoretical Pbyslcs on the Personal Computer](https://link.springer.com/book/10.1007/978-3-642-75471-5). Springer. Reviewed [here](https://aip.scitation.org/doi/10.1063/1.4822844)
+Schmid, Erich W., Gerhard Spitz, and Wolfgang Losch (1988). [Simulation with GASP-II: A FORTRAN based simulation language](https://link.springer.com/book/10.1007/978-3-642-75471-5). Springer. Reviewed [here](https://aip.scitation.org/doi/10.1063/1.4822844)
 
 Schmidt, Bernd (1987). [Model Construction with GPSS-FORTRAN Version 3](https://www.springer.com/gp/book/9781461291404). Springer.
 
