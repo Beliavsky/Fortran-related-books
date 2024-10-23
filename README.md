@@ -564,6 +564,8 @@ Walker, Darren (2016). [Computational Physics](https://www.amazon.com/Computatio
 
 Wang, H. F., and M. P. Anderson (1982). [Introduction to groundwater modeling: Finite difference and finite element methods](https://www.elsevier.com/books/introduction-to-groundwater-modeling/wang/978-0-12-734585-7). Freeman. Code at Wang’s [site](http://geoscience.wisc.edu/geoscience/people/faculty/herb-wang/)
 
+Wang, Xinwei (2015). [Differential Quadrature and Differential Quadrature Based Element Methods: Theory and Applications](https://www.sciencedirect.com/book/9780128030813/differential-quadrature-and-differential-quadrature-based-element-methods). Elsevier
+
 Watson, Neville, and Jos Arrillaga (2003). [Power Systems Electromagnetic Transients Simulation](https://digital-library.theiet.org/content/books/po/pbpo039e). Institution of Engineering and Technology
 
 Wellek, Stefan (2010). [Testing Statistical Hypotheses of Equivalence and Noninferiority, 2nd ed.](https://www.routledge.com/Testing-Statistical-Hypotheses-of-Equivalence-and-Noninferiority/Wellek/p/book/9781439808184). CRC
