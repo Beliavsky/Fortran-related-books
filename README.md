@@ -601,4 +601,6 @@ Zienkiewicz, O.C., R. L. Taylor, and J.Z. Zhu (2013). [The Finite Element Method
 
 Zienkiewicz, O.C., and R. L. Taylor (2013). [The Finite Element Method for Solid and Structural Mechanics, 7th Ed.](https://www.elsevier.com/books/the-finite-element-method-for-solid-and-structural-mechanics/zienkiewicz/978-1-85617-634-7). Elsevier. [feappv code at GitHub](https://github.com/sanjayg0/feappv)
 
+Zong, Zhi, and Yingyan Zhang (2009). [Advanced Differential Quadrature Methods](https://www.routledge.com/Advanced-Differential-Quadrature-Methods/Zong-Zhang/p/book/9781138117907). CRC
+
 Zubairi, Omair and Fridolin Weber (2018). [Introduction to Computational Physics for Undergraduates](https://iopscience.iop.org/book/978-1-6817-4896-2). Morgan & Claypool
