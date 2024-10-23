@@ -506,6 +506,8 @@ Shampine, Lawrence, and Marilyn Gordon (1975). [Computer Solution of Ordinary Di
 
 Shashkov, Mikhail (1996). [Conservative Finite-Difference Methods on General Grids](https://www.amazon.com/Conservative-Finite-Difference-Methods-Symbolic-Computation/dp/0849373751). CRC
 
+Shu, Chang (2000). [Differential Quadrature and Its Application in Engineering](https://link.springer.com/book/10.1007/978-1-4471-0407-0). Springer
+
 Singh, Nathi (2017). [Computational Methods for Physics and Mathematics: With Fortran and C Programmes](https://www.amazon.com/Computational-Methods-Physics-N-Kushwaha/dp/1783322128/fortran-wiki-20). Alpha Science
 
 Sinha, Mihir K., and Larry R. Padgett (1985). [Reservoir Engineering Techniques Using Fortran](https://www.springer.com/us/book/9789027719218). Springer
