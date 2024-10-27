@@ -195,7 +195,7 @@ Fornés, José Antonio (2021). [Principles of Brownian and molecular motors](htt
 
 Fornés, José Antonio (2024). [Quantum Processes in Biology](https://link.springer.com/book/10.1007/978-3-031-58078-9). Springer
 
-Forsythe, George E., Michael A. Malcolm, and Cleve B. Moler (1977). [Computer Methods for Mathematical Computations](https://www.amazon.com/Mathematical-Computations-Prentice-Hall-automatic-computation/dp/0131653326/fortran-wiki-20). Prentice-Hall. Code at [Netlib](http://www.netlib.org/fmm/index.html)
+Forsythe, George E., Michael A. Malcolm, and Cleve B. Moler (1977). [Computer Methods for Mathematical Computations](https://www.amazon.com/Mathematical-Computations-Prentice-Hall-automatic-computation/dp/0131653326/fortran-wiki-20). Prentice-Hall. Original code at [Netlib](http://www.netlib.org/fmm/index.html) and updated Fortran 90 code by Ralph Carmichael [here](https://www.pdas.com/fmmdownload.html).
 
 Francq, Christian and Jean‐Michel Zakoian (2019). [GARCH Models: Structure, Statistical Inference and Financial Applications, 2nd. ed.](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119313472). Wiley. Code at Francq’s [site](http://christian.francq140.free.fr/Christian-Francq/GARCH-Models/Identification/portmanteau.html)
 
