@@ -510,6 +510,8 @@ Shashkov, Mikhail (1996). [Conservative Finite-Difference Methods on General Gri
 
 Shu, Chang (2000). [Differential Quadrature and Its Application in Engineering](https://link.springer.com/book/10.1007/978-1-4471-0407-0). Springer
 
+Sidi, Avram (2003). [Practical Extrapolation Methods: Theory and Applications](https://www.cambridge.org/core/books/practical-extrapolation-methods/21A93C2B0793CF09B2F3ABEF78F3F9B9). Cambridge University Press. Appendix I has a "FORTRAN 77 Program for the d(m)-Transformation".
+
 Sidi, Avram (2017). [Vector Extrapolation Methods with Applications](https://epubs.siam.org/doi/10.1137/1.9781611974966). SIAM. Appendix H has "Unified FORTRAN 77 Code for MPE and RRE".
 
 Singh, Nathi (2017). [Computational Methods for Physics and Mathematics: With Fortran and C Programmes](https://www.amazon.com/Computational-Methods-Physics-N-Kushwaha/dp/1783322128/fortran-wiki-20). Alpha Science
