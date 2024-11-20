@@ -63,7 +63,7 @@ Bratley, Paul, Bennet L. Fox, and Linus E. Schrage (1987). [A Guide to Simulatio
 
 Brázdová, Veronika, and David R. Bowler (2013). [Atomistic Computer Simulations: A Practical Guide](http://davidbowler.github.io/AtomisticSimulations/index.html). Wiley.
 
-Boor, Carl de (1978). [A Practical Guide to Splines](https://www.springer.com/gp/book/9780387953663). Springer. PPPACK Fortran 90 code [here](https://people.sc.fsu.edu/~jburkardt/f_src/pppack/pppack.html)
+Boor, Carl de (1978). [A Practical Guide to Splines](https://www.springer.com/gp/book/9780387953663). Springer. Original code [here](https://pages.cs.wisc.edu/~deboor/pgs/), PPPACK Fortran 90 code [here](https://people.sc.fsu.edu/~jburkardt/f_src/pppack/pppack.html)
 
 Bose, Sujit Kumar (2019). [Numerical Methods of Mathematics Implemented in Fortran](https://www.springer.com/gp/book/9789811371134). Springer. reviewed [here](https://www.maa.org/press/maa-reviews/numerical-methods-of-mathematics-implemented-in-fortran)
 
@@ -108,6 +108,8 @@ Clerman, Norman S. and Spector, Walter (2011). [Modern Fortran - Style and Usage
 Cody, William, and William Waite (1980). [Software Manual for the Elementary Functions](https://www.amazon.com/Elementary-Functions-Prentice-Hall-computational-mathematics/dp/0138220646). Prentice Hall. Code at Waite's [site](https://ecee.colorado.edu/~waite/pubs/math/Elefunt.html)
 
 Coker, A. Kayode (1995). [Fortran Programs for Chemical Process Design, Analysis, and Simulation](https://www.elsevier.com/books/fortran-programs-for-chemical-process-design-analysis-and-simulation/coker/978-0-88415-280-4). Gulf Professional
+
+Conte, S. D., and Carl de Boor (2017). [Elementary Numerical Analysis: An Algorithmic Approach](https://epubs.siam.org/doi/book/10.1137/1.9781611975208). SIAM. Fortran code [here](https://pages.cs.wisc.edu/~deboor/contedb_fortran.zip), Matlab code [here](https://pages.cs.wisc.edu/~deboor/contedb_mfiles.zip). 
 
 Cook, Robert D., David S. Malkus, Michael E. Plesha, and Robert J. Witt (2001). [Concepts and Applications of Finite Element Analysis, 4th ed.](https://www.amazon.com/Concepts-Applications-Finite-Element-Analysis/dp/0471356050). Wiley
 
