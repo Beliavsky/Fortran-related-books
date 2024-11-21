@@ -59,10 +59,6 @@ Blazek, Jiri (2015). [Computational Fluid Dynamics: Principles and Applications,
 
 Bloomfield, Peter (1976). [Fourier Analysis of Time Series, 1st ed.](https://books.google.com/books?id=UtpQAAAAMAAJ&source=gbs_book_other_versions). First edition has Fortran code, the 2nd edition, published in 2000, has S-PLUS code.
 
-Bratley, Paul, Bennet L. Fox, and Linus E. Schrage (1987). [A Guide to Simulation, 2nd. ed.](https://www.springer.com/us/book/9780387964676). Springer.
-
-Brázdová, Veronika, and David R. Bowler (2013). [Atomistic Computer Simulations: A Practical Guide](http://davidbowler.github.io/AtomisticSimulations/index.html). Wiley.
-
 Boor, Carl de (1978). [A Practical Guide to Splines](https://www.springer.com/gp/book/9780387953663). Springer. Original code [here](https://pages.cs.wisc.edu/~deboor/pgs/), PPPACK Fortran 90 code [here](https://people.sc.fsu.edu/~jburkardt/f_src/pppack/pppack.html)
 
 Bose, Sujit Kumar (2019). [Numerical Methods of Mathematics Implemented in Fortran](https://www.springer.com/gp/book/9789811371134). Springer. reviewed [here](https://www.maa.org/press/maa-reviews/numerical-methods-of-mathematics-implemented-in-fortran)
@@ -73,9 +69,15 @@ Boyd, John P. (2001). [Chebyshev and Fourier Spectral Methods](https://store.dov
 
 Brandt, Siegmund (1999). [Data Analysis: Statistical and Computational Methods for Scientists and Engineers](https://www.springer.com/gp/book/9780387984988). Springer
 
+Bratley, Paul, Bennet L. Fox, and Linus E. Schrage (1987). [A Guide to Simulation, 2nd. ed.](https://www.springer.com/us/book/9780387964676). Springer.
+
+Brázdová, Veronika, and David R. Bowler (2013). [Atomistic Computer Simulations: A Practical Guide](http://davidbowler.github.io/AtomisticSimulations/index.html). Wiley.
+
 Brent, Richard (1973). [Algorithms for Minimization without Derivatives](https://maths-people.anu.edu.au/~brent/pub/pub011.html). Prentice-Hall, reprinted by [Dover](https://store.doverpublications.com/0486419983.html) in 2002. Code by John Burkardt [here](https://people.math.sc.edu/Burkardt/f_src/brent/brent.html).
 
 Bretthorst, G. Larry (1988), [Bayesian Spectrum Analysis and Parameter Estimation](https://bayes.wustl.edu/glb/book.pdf). Springer. Code is in Appendix E.
+
+Brezinski, Claude, and Michela Redivo Zaglia (1991). [Extrapolation methods, theory and practice](https://www.sciencedirect.com/bookseries/studies-in-computational-mathematics/vol/2). North-Holland. Code [here](https://www.math.unipd.it/~michela/extracode/ExtraCode.zip).
 
 Britz, Dieter, and Jörg Strutwolf (2016). [Digital Simulation in Electrochemistry](https://www.springer.com/us/book/9783319302904). Springer. Appendix E describes a number of example programs in Fortran.
 
