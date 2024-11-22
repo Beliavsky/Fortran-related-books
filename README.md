@@ -472,6 +472,8 @@ Røed, Lars Petter (2019). [Atmospheres and Oceans on Computers: Fundamental Num
 
 Rouson, D., J. Xia, and X. Xu (2011). [Scientific Software Design - The Object-Oriented Way](http://fortranwiki.org/fortran/show/Scientific+Software+Design+-+The+Object-Oriented+Way). Cambridge University Press.
 
+Rousseeuw, Peter J., and Annick M. Leroy (1987). [Robust Regression and Outlier Detection](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316801). Wiley. A chapter describes the PROGRESS program for robust regression.
+
 Ruetsch, Gregory and Fatica, Massimiliano (2013). [CUDA Fortran for Scientists and Engineers](http://fortranwiki.org/fortran/show/CUDA+Fortran+for+Scientists+and+Engineers). Morgan Kaufmann.
 
 Ruetsch, Gregory and Fatica, Massimiliano (2024). [CUDA Fortran for Scientists and Engineers, 2nd ed.](https://shop.elsevier.com/books/cuda-fortran-for-scientists-and-engineers/ruetsch/978-0-443-21977-1). Morgan Kaufmann.
