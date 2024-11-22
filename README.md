@@ -283,6 +283,8 @@ Itkin, A. L., and E. G. Kolesnichenko (1997). [Microscopic Theory of Condensatio
 
 Izaac, Joshua, and Jingbo Wang (2018). [Computational Quantum Mechanics](https://www.springer.com/gp/book/9783319999296). Springer
 
+Kaufman, Leonard, and Peter J. Rousseeuw (1990). [Finding Groups in Data: An Introduction to Cluster Analysis](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470316801). Wiley. Code [here](https://www.stats.ox.ac.uk/~ripley/PRbook/clusfind)
+
 Lee, H. J., and W. E. Schiesser (2004), [Ordinary and Partial Differential Equation Routines in C, C++, Fortran, Java, Maple and Matlab](https://www.taylorfrancis.com/books/mono/10.1201/9780203010518/ordinary-partial-differential-equation-routines-fortran-java-maple-matlab-lee-schiesser). CRC. Code [here](https://www.lehigh.edu/~wes1/books/ode_pde/).
 
 Javanbakht, Zia, and Andreas Öchsner (2017). [Advanced Finite Element Simulation with MSC Marc: Application of User Subroutines](https://www.springer.com/us/book/9783319476674). Springer
