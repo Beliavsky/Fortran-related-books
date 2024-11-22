@@ -368,6 +368,8 @@ Mathews, John H. (1992). [Numerical Methods For Mathematics, Science, and Engine
 
 Mattson, Timothy G., Yun (Helen) He, and Alice E. Koniges (2019). [The OpenMP Common Core: Making OpenMP Simple Again](https://mitpress.mit.edu/books/openmp-common-core). MIT Press
 
+McLachlan, Geoffrey, and David Peel (2000). [Finite Mixture Models](https://onlinelibrary.wiley.com/doi/book/10.1002/0471721182). Wiley. Code for EMMIX is [here](https://people.smp.uq.edu.au/GeoffMcLachlan/mix_soft/index.html) and described [here](https://www.jstatsoft.org/article/view/v004i02).
+
 Mielke, Jr., Paul W., and Kenneth J. Berry (2007). [Permutation Methods: A Distance Function Approach](https://www.springer.com/gp/book/9781475734492). Springer. code at Mielke’s [site](https://www.stat.colostate.edu/~mielke/permute.html)
 
 Miller, Alan (2002). [Subset Selection in Regression, 2nd ed.](https://www.routledge.com/Subset-Selection-in-Regression/Miller/p/book/9780367396220). Chapman and Hall/CRC. code at Miller’s [site](https://jblevins.org/mirror/amiller/)
