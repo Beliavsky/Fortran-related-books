@@ -163,7 +163,9 @@ Engeln-Müllges, Gisela and Uhlig, Frank (2013). [Numerical Algorithms with Fort
 
 Epps, Thomas W. (2007). [Pricing Derivative Securities, 2nd. ed.](https://www.worldscientific.com/worldscibooks/10.1142/6243#t=suppl). World Scientific
 
-Erban, Radek, and Jonathan Chapman (2020). [Stochastic Modelling of Reaction-Diffusion Processes](https://people.maths.ox.ac.uk/erban/cupbook/), Cambridge University Press (2020)
+Erban, Radek, and Jonathan Chapman (2020). [Stochastic Modelling of Reaction-Diffusion Processes](https://people.maths.ox.ac.uk/erban/cupbook/), Cambridge University Press
+
+Erman, Burak, and James E. Mark (1997). [Structures and Properties of Rubberlike Networks](https://academic.oup.com/book/42066). Oxford University Press. Appendix G has "Fortran Program for Monte Carlo Calculations".
 
 Evensen, Geir (2009). [Data assimilation, The Ensemble Kalman Filter, 2nd ed.](https://enkf.nersc.no/). Springer
 
