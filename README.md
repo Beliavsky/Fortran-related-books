@@ -384,6 +384,10 @@ Moré, Jorge J. and Stephen J. Wright (1993). [Optimization Software Guide](http
 
 Moursund, David G., and Charles S. Duris (1988). [Elementary Theory and Application of Numerical Analysis](https://www.amazon.com/Elementary-Theory-Application-Numerical-Analysis/dp/048665754X/fortran-wiki-20). Dover
 
+Murtagh, Fionn (1985). [Multidimensional Clustering Algorithms](https://books.google.com/books/about/Multidimensional_Clustering_Algorithms.html?id=1RbvAAAAMAAJ). Physica-Verlag. Book and code are at Murtagh's [site](https://mda-sw.github.io/).
+
+Murtagh, Fionn and Andre Heck (1987). [Multivariate Data Analysis](https://mda-sw.github.io/), Kluwer, Dordrecht. Code and a later expanded book "Multivariate Data Analysis with Fortran, C, and Java code" is at Murtagh's [site](https://mda-sw.github.io/). 
+
 Musoff, Howard, and Paul Zarchan (2009). [Fundamentals of Kalman Filtering: A Practical Approach, 4th ed.](https://arc.aiaa.org/doi/book/10.2514/4.867200). American Institute of Aeronautics and Astronautics
 
 Nazareth, J.L. (2001). [DLP and Extensions: An Optimization Model and Decision Support System](https://www.springer.com/us/book/9783540411147). Springer. DLPEDU code [here](http://www.math.wsu.edu/faculty/nazareth/dlpedu-ebook.pdf)
