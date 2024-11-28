@@ -384,6 +384,10 @@ Moré, Jorge J. and Stephen J. Wright (1993). [Optimization Software Guide](http
 
 Moursund, David G., and Charles S. Duris (1988). [Elementary Theory and Application of Numerical Analysis](https://www.amazon.com/Elementary-Theory-Application-Numerical-Analysis/dp/048665754X/fortran-wiki-20). Dover
 
+Mudelsee, Manfred (2014). [Climate Time Series Analysis: Classical Statistical and Bootstrap Methods, 2nd. ed.](https://www.manfredmudelsee.com/book/index.htm). Springer
+
+Mudelsee, Manfred (2020). [Statistical Analysis of Climate Extremes](https://www.manfredmudelsee.com/textbook/index.htm). Cambridge University Press
+
 Murtagh, Fionn (1985). [Multidimensional Clustering Algorithms](https://books.google.com/books/about/Multidimensional_Clustering_Algorithms.html?id=1RbvAAAAMAAJ). Physica-Verlag. Book and code are at Murtagh's [site](https://mda-sw.github.io/).
 
 Murtagh, Fionn and Andre Heck (1987). [Multivariate Data Analysis](https://mda-sw.github.io/), Kluwer, Dordrecht. Code and a later expanded book "Multivariate Data Analysis with Fortran, C, and Java code" is at Murtagh's [site](https://mda-sw.github.io/). 
