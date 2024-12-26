@@ -514,6 +514,8 @@ Schmid, Erich W., Gerhard Spitz, and Wolfgang Losch (1988). [Simulation with GAS
 
 Schmidt, Bernd (1987). [Model Construction with GPSS-FORTRAN Version 3](https://www.springer.com/gp/book/9781461291404). Springer.
 
+Schorghofer, Norbert (2018). [Lessons in Scientific Computing: Numerical Mathematics, Computer Technology, and Scientific Discovery](https://www.taylorfrancis.com/books/mono/10.1201/b22287/lessons-scientific-computing-norbert-schorghofer). CRC Press. Code and other supplementary files [here](https://github.com/nschorgh/CompSciBook).
+
 Scott, L. Ridgway, Terry Clark, and Babak Bagheri (2005). [Scientific Parallel Computing](http://spcbook.cs.uchicago.edu/about.html). Princeton University Press
 
 Sewell, Granville (2018). [Solving Partial Differential Equation Applications with PDE2D](http://www.pde2d.com/). Wiley
