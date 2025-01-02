@@ -590,6 +590,8 @@ Vowels, Robin A. (1998). [Algorithms and Data Structures in F and Fortran](http:
 
 Walker, Darren (2016). [Computational Physics](https://www.amazon.com/Computational-Physics-Essentials-Darren-Walker/dp/1942270739/fortran-wiki-20). Mercury Learning. Code at [GitHub](https://github.com/DJWalker42/ComputationalPhysicsFortran).
 
+Wand, Matt P., and M. C. Jones (1995). [Kernel Smoothing](https://www.routledge.com/Kernel-Smoothing/Wand-Jones/p/book/9780412552700). CRC Press. R package [KernSmooth](https://cran.r-project.org/web/packages/KernSmooth/index.html) has Fortran code.
+
 Wang, H. F., and M. P. Anderson (1982). [Introduction to groundwater modeling: Finite difference and finite element methods](https://www.elsevier.com/books/introduction-to-groundwater-modeling/wang/978-0-12-734585-7). Freeman. Code at Wang’s [site](http://geoscience.wisc.edu/geoscience/people/faculty/herb-wang/)
 
 Wang, Xinwei (2015). [Differential Quadrature and Differential Quadrature Based Element Methods: Theory and Applications](https://www.sciencedirect.com/book/9780128030813/differential-quadrature-and-differential-quadrature-based-element-methods). Elsevier
