@@ -347,7 +347,9 @@ Lee, Wen Ho (2018). [Computational Solid Mechanics for Oil Well Perforator Desig
 
 Leffelaar P. A. (1993). [On Systems Analysis and Simulation of Ecological Processes with Examples in CSMP and FORTRAN](https://www.springer.com/us/book/9789401120869). Springer
 
-Liu, G.R., and M. B. Liu (2003). [Smoothed Particle Hydrodynamics: A Meshfree Particle Method](https://www.worldscientific.com/worldscibooks/10.1142/5340). World Scientific. Code at site and at [GitHub](https://github.com/QuantumWarlock/LiuBook_SPH3D)
+Liu, G. R., and M. B. Liu (2003). [Smoothed Particle Hydrodynamics: A Meshfree Particle Method](https://www.worldscientific.com/worldscibooks/10.1142/5340). World Scientific. Code at site and at [GitHub](https://github.com/QuantumWarlock/LiuBook_SPH3D)
+
+Liu, G. R., and G. Y. Zhang (2013). [Smoothed Point Interpolation Methods: G Space Theory and Weakened Weak Forms](https://www.worldscientific.com/worldscibooks/10.1142/8742#t=aboutBook). World Scientific
 
 Lobo, Michael (1997). [Time-Marching: A Step-by-step Guide to a Flow Solver](https://www.routledge.com/Time-Marching-A-Step-by-step-Guide-to-a-Flow-Solver/Lobo/p/book/9781138364547). Gower Technical
 
