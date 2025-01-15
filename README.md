@@ -169,6 +169,8 @@ Erman, Burak, and James E. Mark (1997). [Structures and Properties of Rubberlike
 
 Evensen, Geir (2009). [Data assimilation, The Ensemble Kalman Filter, 2nd ed.](https://enkf.nersc.no/). Springer
 
+Farber, Rob (2016). [Parallel Programming with OpenACC](https://shop.elsevier.com/books/parallel-programming-with-openacc/farber/978-0-12-410397-9). Morgan Kaufmann. Code [here](https://github.com/rmfarber/ParallelProgrammingWithOpenACC).
+
 Farlow, Stanley J. (1984). [Self-Organizing Methods in Modeling: GMDH Type Algorithms](https://www.taylorfrancis.com/books/edit/10.1201/9781003065227/self-organizing-methods-modeling-stanley-farlow). CRC Press
 
 Farrashkhalvat, M., and J.P. Miles (2003). [Basic Structured Grid Generation, with an introduction to unstructured grid generation](https://www.sciencedirect.com/book/9780750650588/basic-structured-grid-generation). Butterworth-Heinemann
