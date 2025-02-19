@@ -185,6 +185,8 @@ Fenton, Gordon A., and D. V. Griffiths (2008). [Risk Assessment in Geotechnical 
 
 Ferziger, Joel H., Peric, Milovan, and Street, Robert L. (2002). [Computational Methods for Fluid Dynamics](http://cfd-peric.de/). Springer
 
+Field, Martin J. (1999). [A Practical Introduction to the Simulation of Molecular Systems, 1st ed.](https://www.amazon.com/Practical-Introduction-Simulation-Molecular-Systems/dp/052158129X), Cambridge University Press. Code for fDynamo is [here](https://www.pdynamo.org/downloads)
+
 Finlayson, Bruce A. (1980). [Nonlinear Analysis in Chemical Engineering](http://www.chemecomp.com/resale/Nonlinear/program_index.htm). McGraw-Hill.
 
 Fischer, Charlotte Frose, Tomas Brage, and Per Jonsson (1997). [Computational Atomic Structure: An MCHF Approach](https://www.routledge.com/Computational-Atomic-Structure-An-MCHF-Approach/Froese-Fischer/p/book/9780367401108). CRC Press. Code [here](https://www.pks.mpg.de/~george/HF/index.html), [here](https://github.com/cffischer), and [here](https://github.com/compas/atsp-book)
