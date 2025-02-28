@@ -1,5 +1,4 @@
-# Fortran-related books
-Books with Fortran code, other than Fortran textbooks. This branched from the Related Books section of the [Fortran Wiki](http://fortranwiki.org/fortran/show/Books). If you have a book suggestion or if the code of a book is available but not linked here, please create an issue.
+### Fortran-related books, by author
 
 Aarseth, Sverre J (2009). [Gravitational N-Body Simulations: Tools and Algorithms](https://www.cambridge.org/us/academic/subjects/physics/astrophysics/gravitational-n-body-simulations-tools-and-algorithms). Cambridge University Press. Code [here](https://people.ast.cam.ac.uk/~sverre/web/pages/nbody.htm), and a descendant is [Nbody6++GPU](https://github.com/nbody6ppgpu/Nbody6PPGPU-beijing)
 
