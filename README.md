@@ -570,6 +570,8 @@ Späth, Helmuth (1980). [Cluster Analysis Algorithms](https://www.amazon.com/Clu
 
 Stearns, Samuel D., and Ruth A. David (1992). [Signal Processing Algorithms in Fortran and C](https://www.amazon.com/Signal-Processing-Algorithms-Fortran-Prentice-Hall/dp/0138126941/fortran-wiki-20). Prentice-Hall
 
+Stevens, Brian L., Frank L. Lewis, and Eric N. Johnson (2015) [Aircraft Control and Simulation: Dynamics, Controls Design, and Autonomous Systems, 3rd ed.](https://www.wiley.com/en-us/Aircraft+Control+and+Simulation%3A+Dynamics%2C+Controls+Design%2C+and+Autonomous+Systems%2C+3rd+Edition-p-9781118870983). Wiley
+
 Stroud, Arthur (1971). [Approximate Calculation of Multiple Integrals](https://www.amazon.com/Approximate-Calculation-0130438936-Prentice-Hall-Computation/dp/B004T9BACK). Prentice Hall. Fortran 90 code by John Burkardt [here](https://people.sc.fsu.edu/~jburkardt/f_src/stroud/stroud.html)
 
 Stroud, Arthur, and Don Secrest (1966). [Gaussian Quadrature Formulas](https://www.amazon.com/Gaussian-quadrature-Prentice-Hall-automatic-computation/dp/B0006BNRQ2). Prentice Hall. Fortran 90 code by John Burkardt [here](https://people.sc.fsu.edu/~jburkardt/f_src/stroud/stroud.html) and by Ivan Pribec [here](https://github.com/ivan-pi/stroud_quad)
