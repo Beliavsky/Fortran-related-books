@@ -524,6 +524,8 @@ Schorghofer, Norbert (2018). [Lessons in Scientific Computing: Numerical Mathema
 
 Scott, L. Ridgway, Terry Clark, and Babak Bagheri (2005). [Scientific Parallel Computing](http://spcbook.cs.uchicago.edu/about.html). Princeton University Press
 
+Selvam, R. Panneer (2022). [Computational Fluid Dynamics for Wind Engineering](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119845089). Wiley
+
 Sewell, Granville (2018). [Solving Partial Differential Equation Applications with PDE2D](http://www.pde2d.com/). Wiley
 
 Sewell, Granville (2015) [The Numerical Solution of Ordinary and Partial Differential Equations, 3rd Ed.](http://math.utep.edu/Faculty/sewell/odes_pdes/). World Scientific
