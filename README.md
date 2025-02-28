@@ -1,6 +1,6 @@
-# Books Organized by Library of Congress Classification
+### Fortran-related Books
 
-Below is a list of books organized by their Library of Congress Classification (LCC), with links to publishers’ sites and code repositories where available. Click on a category to jump to its section:
+Below is a list of books with Fortran code, other than Fortran textbooks, organized by their Library of Congress Classification (LCC), with links to publishers’ sites and code repositories where available.
 
 - [QA - Mathematics](#qa---mathematics)
 - [QC - Physics](#qc---physics)
