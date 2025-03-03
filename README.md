@@ -146,7 +146,7 @@ Below is a list of books with Fortran code, other than Fortran textbooks, organi
 
 ### QD462 - Quantum Chemistry
 - Ching, Wai-Yim, and Paul Rulis (2012). *[Electronic Structure Methods for Complex Materials: The orthogonalized linear combination of atomic orbitals](https://academic.oup.com/book/34699)*. Oxford University Press. Code [here](https://github.com/UMKC-CPG/olcao)
-- Szabo, Attila, and Neil S. Ostlund (1989). *[Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory](https://store.doverpublications.com/0486691861.html)*. McGraw-Hill. Code [here](http://www.ccl.net/cca/software/SOURCES/FORTRAN/szabo/index.html)
+- Szabo, Attila, and Neil S. Ostlund (1989). *[Modern Quantum Chemistry: Introduction to Advanced Electronic Structure Theory](https://store.doverpublications.com/0486691861.html)*. McGraw-Hill. Code [here](http://www.ccl.net/cca/software/SOURCES/FORTRAN/szabo/index.html), and updated [here](https://github.com/JorgeG94/HFSzaboOstlund).
 
 ### QD181 - Chemical Computations
 - Elliott, J. Richard, Vladimir Diky, Thomas A. Knotts IV, and W. Vincent Wilding (2023). *[The Properties of Gases and Liquids, 6th ed.](https://www.mhprofessional.com/the-properties-of-gases-and-liquids-sixth-edition-9781260116342-usa)*. McGraw-Hill. Code at [GitHub](https://github.com/PGLadmin/PGLWrapper)
