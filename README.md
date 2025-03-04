@@ -73,7 +73,7 @@ Below is a list of books with Fortran code, other than Fortran textbooks, organi
 - Nocedal, Jorge, and Stephen J. Wright (2006). *[Numerical Optimization](http://users.iems.northwestern.edu/~nocedal/book/index.html)*. Springer. Related code at Nocedal’s [site](http://users.iems.northwestern.edu/~nocedal/software.html)
 - Osyczka, Andrzej (1984). *[Multicriterion Optimization in Engineering with FORTRAN Programs](https://www.amazon.com/Multicriterion-Optimization-Engineering-FORTRAN-Programs/dp/B002IXMBH2/fortran-wiki-20)*. Halsted/Wiley
 - Schittkowski, Klaus (2002). *[Numerical Data Fitting in Dynamical Systems - A Practical Introduction with Applications and Software](http://klaus-schittkowski.de/dyn_sys_book.htm)*. Kluwer
-- Schittkowski, Klaus (1987). *[More Test Examples for Nonlinear Programming Codes](https://www.springer.com/us/book/9783540171829)*. Springer. Code [here](http://klaus-schittkowski.de/tpnp.htm)
+- Schittkowski, Klaus (1987). *[More Test Examples for Nonlinear Programming Codes](https://www.springer.com/us/book/9783540171829)*. Springer. Code [here](http://klaus-schittkowski.de/tpnp.htm) and [here](https://github.com/jacobwilliams/schittkowski-test-problems).
 - Schittkowski, Klaus (1980). *[Nonlinear Programming Codes: Information, Tests, Performance](https://www.springer.com/us/book/9783540102472)*. Springer
 - Wolfe, Carvel S. (1985). *[Linear Programming with BASIC and FORTRAN](https://books.google.com/books/about/Linear_Programming_with_BASIC_and_FORTRA.html?id=vZ0-AQAAIAAJ)*. Reston Publishing Company
 - Wolfe, Carvel S. (1973). *[Linear programming with Fortran](https://www.amazon.com/Linear-programming-Fortran-Carvel-Wolfe/dp/0673077977)*. Pearson Scott Foresman
