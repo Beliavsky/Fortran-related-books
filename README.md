@@ -1,6 +1,4 @@
-### Fortran-related Books
-
-Below is a list of books with Fortran code, other than Fortran textbooks, organized by their Library of Congress Classification (LCC), with links to publishers’ sites and code repositories where available. If you have a book suggestion or if the code of a book is available but not linked here, please create an issue. The books are listed by author [here](https://github.com/Beliavsky/Fortran-related-books/blob/main/author.md).
+This is a list of books with Fortran code, other than Fortran textbooks, organized by their Library of Congress Classification (LCC), with links to publishers’ sites and code repositories where available. If you have a book suggestion or if the code of a book is available but not linked here, please [create an issue](https://github.com/Beliavsky/Fortran-related-books/issues). The books are listed by author [here](https://github.com/Beliavsky/Fortran-related-books/blob/main/author.md).
 
 - [QA - Mathematics](#qa---mathematics)
 - [QC - Physics](#qc---physics)
