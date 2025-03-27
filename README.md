@@ -167,6 +167,10 @@ This is a list of books with Fortran code, other than Fortran textbooks, organiz
 
 ## TA - Engineering (General, Civil, and Mechanical)
 
+### TA174 - Engineering Design
+- Mabie, Hamilton H., and Charles F. Reinholtz (1987). *[Mechanisms and Dynamics of Machinery, 4th ed.](https://www.amazon.com/Mechanisms-Dynamics-Machinery-Hamilton-Mabie/dp/0471802379)*. Wiley
+- Rao, Natti S. (1981). *[Designing Machines and Dies for Polymer Processing with Computer Programs: FORTRAN and BASIC](https://books.google.com/books/about/Designing_Machines_and_Dies_for_Polymer.html?id=d53xAAAAMAAJ)*. Hanser
+
 ### TA329-348 - Engineering Mathematics and Finite Element Methods
 - Akin, J. E. (1994). *[Finite Elements for Analysis and Design](https://www.sciencedirect.com/book/9780080506470/finite-elements-for-analysis-and-design)*. Academic Press
 - Barrett, Richard, Michael Berry, Tony F. Chan, James Demmel, June Donato, Jack Dongarra, Victor Eijkhout, Roldan Pozo, Charles Romine, and Henk van der Vorst (1994). *[Templates for the Solution of Linear Systems: Building Blocks for Iterative Methods, 2nd ed.](https://www.netlib.org/linalg/html_templates/Templates.html)*. SIAM. Code [here](https://www.netlib.org/templates/)
@@ -223,12 +227,11 @@ This is a list of books with Fortran code, other than Fortran textbooks, organiz
 - Røed, Lars Petter (2019). *[Atmospheres and Oceans on Computers: Fundamental Numerical Methods for Geophysical Fluid Dynamics](https://www.springer.com/us/book/9783319938639)*. Springer. Has appendix [Introduction to Fortran 2003 via Examples](https://link.springer.com/content/pdf/bbm%3A978-3-319-93864-6%2F1.pdf)
 - Selvam, R. Panneer (2022). *[Computational Fluid Dynamics for Wind Engineering](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119845089)*. Wiley
 
+### TA401-492 - Materials of engineering and construction. Mechanics of materials
+- Bonet, Javier, and Richard D. Wood (2010). *[Nonlinear Continuum Mechanics for Finite Element Analysis, 2nd ed.](https://www.cambridge.org/core/books/nonlinear-continuum-mechanics-for-finite-element-analysis/67AD6DBAAB77E755C09E7FB82565DA0B)*. Cambridge University Press. Code [here](http://www.flagshyp.com/choose_downloads.php).
+
 ### TA654 - Structural Engineering (Vibrations and Stability)
 - Algazin, Sergey D., and Igor A. Kijko (2015). *[Aeroelastic Vibrations and Stability of Plates and Shells](https://www.degruyter.com/document/doi/10.1515/9783110338379/html)*. De Gruyter
-
-### TA174 - Engineering Design
-- Mabie, Hamilton H., and Charles F. Reinholtz (1987). *[Mechanisms and Dynamics of Machinery, 4th ed.](https://www.amazon.com/Mechanisms-Dynamics-Machinery-Hamilton-Mabie/dp/0471802379)*. Wiley
-- Rao, Natti S. (1981). *[Designing Machines and Dies for Polymer Processing with Computer Programs: FORTRAN and BASIC](https://books.google.com/books/about/Designing_Machines_and_Dies_for_Polymer.html?id=d53xAAAAMAAJ)*. Hanser
 
 ---
 
