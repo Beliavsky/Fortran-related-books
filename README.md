@@ -25,7 +25,8 @@ This is a list of books with Fortran code, other than Fortran textbooks, organiz
 
 ### QA76.88 - High Performance Computing
 -  Levesque, John, and Gene Wagenbreth (2010). [<i>High Performance Computing: Programming and Applications</i>](https://www.routledge.com/High-Performance-Computing-Programming-and-Applications/Levesque-Wagenbreth/p/book/9781138372689). CRC Press
-
+-  Levesque, John, and Aaron Vose (2018). [<i>Programming for Hybrid Multi/Manycore MPP Systems</i>](https://www.routledge.com/Programming-for-Hybrid-MultiManycore-MPP-Systems/Levesque-Vose/p/book/9781439873717). CRC Press
+   
 ### QA297 - Numerical Analysis
 - Anagnostopoulos, Konstantinos (2016). *[Computational Physics](http://www.physics.ntua.gr/konstant/ComputationalPhysics/)*. Freely available in Fortran and C++ versions
 - Antia, H.M. (2012). *[Numerical methods for scientists and engineers, 3rd ed.](https://www.tifr.res.in/~antia/nmse3.html)*. Hindustan Book Agency
