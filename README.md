@@ -23,6 +23,9 @@ This is a list of books with Fortran code, other than Fortran textbooks, organiz
 - Markus, Arjen (2012). *[Modern Fortran in Practice](http://fortranwiki.org/fortran/show/Modern+Fortran+in+Practice)*. Cambridge University Press
 - Ramos, Juan Antonio Hernandez, and Lopez, Javier Escoto (2020). *[How to learn Applied Mathematics through modern FORTRAN](http://www.amazon.com/dp/B0851LN6HT/fortran-wiki-20/fortran-wiki-20)*. Independently published. [Code and text](https://github.com/jahrWork/NumericalHUB)
 
+### QA76.88 - High Performance Computing
+-  Levesque, John, and Gene Wagenbreth (2010). *[High Performance Computing: Programming and Applications](https://www.routledge.com/High-Performance-Computing-Programming-and-Applications/Levesque-Wagenbreth/p/book/9781138372689). CRC Press
+
 ### QA297 - Numerical Analysis
 - Anagnostopoulos, Konstantinos (2016). *[Computational Physics](http://www.physics.ntua.gr/konstant/ComputationalPhysics/)*. Freely available in Fortran and C++ versions
 - Antia, H.M. (2012). *[Numerical methods for scientists and engineers, 3rd ed.](https://www.tifr.res.in/~antia/nmse3.html)*. Hindustan Book Agency
