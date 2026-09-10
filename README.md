@@ -193,6 +193,7 @@ This is a list of books with Fortran code, other than Fortran textbooks, organiz
 - Dhondt, Guido (2004). *[The Finite Element Method for Three‐Dimensional Thermomechanical Applications](https://onlinelibrary.wiley.com/doi/book/10.1002/0470021217)*. Wiley. Accompanied by finite element software [CalculiX](http://www.calculix.de/)
 - Fenner, D. N. (1987). *[Engineering stress analysis: A finite element approach with FORTRAN 77 software](https://www.amazon.com/Engineering-Stress-Analysis-mechanical-engineering/dp/074580246X/fortran-wiki-20)*. Ellis Horwood
 - Fenner, Roger T. (2013). *[Finite Element Methods For Engineers, 2nd ed.](https://www.amazon.com/Finite-Element-Methods-Engineers-Fenner/dp/B004VSJ030/fortran-wiki-20)*. Imperial College Press
+- Hageman, Louis A., and David M. Young (1981). [Applied Iterative Methods](https://www.sciencedirect.com/book/monograph/9780123133403/applied-iterative-methods). Academic Press.
 - Harrison, Howard B. (1973). *[Computer methods in structural analysis](https://trid.trb.org/view/135613)*. Prentice-Hall
 - Harrison, Howard B. (1990). *[Structural Analysis and Design: Some Microcomputer Applications, 2nd. ed.](https://www.amazon.com/Structural-Analysis-Design-Microcomputer-Applications/dp/0080375219)*. Pergamon
 - Hinton, E., and D. Owen (1979). *[Finite Element Programming](https://www.elsevier.com/books/finite-element-programming/hinton/978-0-08-091871-6)*. Academic Press
