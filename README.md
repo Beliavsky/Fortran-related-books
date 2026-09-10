@@ -199,6 +199,7 @@ This is a list of books with Fortran code, other than Fortran textbooks, organiz
 - Hinton, E., and D. Owen (1979). *[Finite Element Programming](https://www.elsevier.com/books/finite-element-programming/hinton/978-0-08-091871-6)*. Academic Press
 - Hughes, Thomas J. R. (1987). *[The Finite Element Method: Linear Static and Dynamic Finite Element Analysis](https://store.doverpublications.com/0486411818.html)*. Prentice-Hall. Related code [DLEARN](https://www.zsoil.com/dlearn/)
 - Javanbakht, Zia, and Andreas Öchsner (2017). *[Advanced Finite Element Simulation with MSC Marc: Application of User Subroutines](https://www.springer.com/us/book/9783319476674)*. Springer
+- Liu, G. R. (2013). [Smoothed Point Interpolation Methods: G Space Theory and Weakened Weak Forms](https://www.worldscientific.com/worldscibooks/10.1142/8742#t=aboutBook). World Scientific.
 - Nguyen, Duc Thai (2024). *[Parallel-Sparse Statics and Eigen-Solutions](https://link.springer.com/book/10.1007/978-3-031-48788-0)*. Springer
 - Nguyen, Duc Thai (2002). *[Parallel-Vector Equation Solvers for Finite Element Engineering Applications](https://www.springer.com/us/book/9780306466403)*. Springer
 - Owen, D. R. J., and Ernest Hinton (1980). *[Finite Elements in Plasticity: Theory and Practice](https://books.google.com/books/about/Finite_Elements_in_Plasticity.html?id=IzcIAQAAIAAJ)*. Pineridge Press. Reviewed [here](https://onlinelibrary.wiley.com/doi/10.1002/nme.1620170712), related code [here](https://github.com/viktorrobin/FEM)
